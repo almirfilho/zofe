@@ -287,7 +287,7 @@ dl dd {
   height:50px;
   margin:0 auto;
   padding:0;
-  background: url(images/menuicon.png) 40px 12px no-repeat;
+  background: url(../img/menuicon.png) 40px 12px no-repeat;
   color: #fff;
   font-size:26px;
   font-size:1.625rem;
@@ -1906,88 +1906,88 @@ ul.sociallinks li a:hover {
   filter: 0;
 }
 ul.sociallinks li a.twitter {
-  background:url(images/socialicons.png) 0 0 no-repeat;
+  background:url(../img/socialicons.png) 0 0 no-repeat;
 }
 ul.sociallinks li a.facebook {
-  background:url(images/socialicons.png) -40px 0 no-repeat;
+  background:url(../img/socialicons.png) -40px 0 no-repeat;
 }
 ul.sociallinks li a.googleplus {
-  background:url(images/socialicons.png) -80px 0 no-repeat;
+  background:url(../img/socialicons.png) -80px 0 no-repeat;
 }
 ul.sociallinks li a.flickr {
-  background: url(images/socialicons.png) -120px 0 no-repeat;
+  background: url(../img/socialicons.png) -120px 0 no-repeat;
 }
 ul.sociallinks li a.instagram {
-  background: url(images/socialicons.png) -160px 0 no-repeat;
+  background: url(../img/socialicons.png) -160px 0 no-repeat;
 }
 ul.sociallinks li a.picasa {
-  background: url(images/socialicons.png) -200px 0 no-repeat;
+  background: url(../img/socialicons.png) -200px 0 no-repeat;
 }
 ul.sociallinks li a.fivehundredpx {
-  background: url(images/socialicons.png) -240px 0 no-repeat;
+  background: url(../img/socialicons.png) -240px 0 no-repeat;
 }
 ul.sociallinks li a.youtube {
-  background:url(images/socialicons.png) -280px 0 no-repeat;
+  background:url(../img/socialicons.png) -280px 0 no-repeat;
 }
 ul.sociallinks li a.vimeo {
-  background: url(images/socialicons.png) -320px 0 no-repeat;
+  background: url(../img/socialicons.png) -320px 0 no-repeat;
 }
 ul.sociallinks li a.dribbble {
-  background: url(images/socialicons.png) -360px 0 no-repeat;
+  background: url(../img/socialicons.png) -360px 0 no-repeat;
 }
 ul.sociallinks li a.ffffound {
-  background: url(images/socialicons.png) -400px 0 no-repeat;
+  background: url(../img/socialicons.png) -400px 0 no-repeat;
 }
 ul.sociallinks li a.pinterest {
-  background: url(images/socialicons.png) -440px 0 no-repeat;
+  background: url(../img/socialicons.png) -440px 0 no-repeat;
 }
 ul.sociallinks li a.mixi {
-  background: url(images/socialicons.png) -480px 0 no-repeat;
+  background: url(../img/socialicons.png) -480px 0 no-repeat;
 }
 ul.sociallinks li a.behance {
-  background: url(images/socialicons.png) -520px 0 no-repeat;
+  background: url(../img/socialicons.png) -520px 0 no-repeat;
 }
 ul.sociallinks li a.deviantart {
-  background: url(images/socialicons.png) -560px 0 no-repeat;
+  background: url(../img/socialicons.png) -560px 0 no-repeat;
 }
 ul.sociallinks li a.squidoo {
-  background: url(images/socialicons.png) -600px 0 no-repeat;
+  background: url(../img/socialicons.png) -600px 0 no-repeat;
 }
 ul.sociallinks li a.slideshare {
-  background: url(images/socialicons.png) -640px 0 no-repeat;
+  background: url(../img/socialicons.png) -640px 0 no-repeat;
 }
 ul.sociallinks li a.lastfm {
-  background: url(images/socialicons.png) -680px 0 no-repeat;
+  background: url(../img/socialicons.png) -680px 0 no-repeat;
 }
 ul.sociallinks li a.grooveshark {
-  background: url(images/socialicons.png) -720px 0 no-repeat;
+  background: url(../img/socialicons.png) -720px 0 no-repeat;
 }
 ul.sociallinks li a.soundcloud {
-  background: url(images/socialicons.png) -760px 0 no-repeat;
+  background: url(../img/socialicons.png) -760px 0 no-repeat;
 }
 ul.sociallinks li a.foursquare {
-  background: url(images/socialicons.png) -800px 0 no-repeat;
+  background: url(../img/socialicons.png) -800px 0 no-repeat;
 }
 ul.sociallinks li a.github {
-  background: url(images/socialicons.png) -840px 0 no-repeat;
+  background: url(../img/socialicons.png) -840px 0 no-repeat;
 }
 ul.sociallinks li a.linkedin {
-  background: url(images/socialicons.png) -880px 0 no-repeat;
+  background: url(../img/socialicons.png) -880px 0 no-repeat;
 }
 ul.sociallinks li a.xing {
-  background: url(images/socialicons.png) -920px 0 no-repeat;
+  background: url(../img/socialicons.png) -920px 0 no-repeat;
 }
 ul.sociallinks li a.wordpress {
-  background: url(images/socialicons.png) -960px 0 no-repeat;
+  background: url(../img/socialicons.png) -960px 0 no-repeat;
 }
 ul.sociallinks li a.tumblr {
-  background: url(images/socialicons.png) -1000px 0 no-repeat;
+  background: url(../img/socialicons.png) -1000px 0 no-repeat;
 }
 ul.sociallinks li a.rss {
-  background: url(images/socialicons.png) -1040px 0 no-repeat;
+  background: url(../img/socialicons.png) -1040px 0 no-repeat;
 }
 ul.sociallinks li a.rsscomments {
-  background: url(images/socialicons.png) -1080px 0 no-repeat;
+  background: url(../img/socialicons.png) -1080px 0 no-repeat;
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -3194,123 +3194,123 @@ fullwidth .entry-header,
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*  Retina Display optimized Images
+/*  Retina Display optimized images
 /*-----------------------------------------------------------------------------------*/
 @media only screen and (-webkit-min-device-pixel-ratio: 2) {
 #site-nav-wrap a#mobile-menu-btn {
-  background: url(images/x2/menuicon.png) 40px 12px no-repeat;
+  background: url(../img/x2/menuicon.png) 40px 12px no-repeat;
   -webkit-background-size: 35px 22px;
 }
 ul.sociallinks li a.twitter {
-  background:#aaa url(images/x2/twitter.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/twitter.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.facebook {
-  background:#aaa url(images/x2/facebook.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/facebook.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.googleplus {
-  background:#aaa url(images/x2/googleplus.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/googleplus.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.flickr {
-  background:#aaa url(images/x2/flickr.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/flickr.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.instagram {
-  background:#aaa url(images/x2/instagram.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/instagram.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.picasa {
-  background:#aaa url(images/x2/picasa.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/picasa.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.fivehundredpx {
-  background:#aaa url(images/x2/fivehundredpx.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/fivehundredpx.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.youtube {
-  background:#aaa url(images/x2/youtube.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/youtube.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.vimeo {
-  background:#aaa url(images/x2/vimeo.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/vimeo.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.dribbble {
-  background:#aaa url(images/x2/dribbble.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/dribbble.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.ffffound {
-  background:#aaa url(images/x2/ffffound.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/ffffound.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.pinterest {
-  background:#aaa url(images/x2/pinterest.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/pinterest.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.mixi {
-  background:#aaa url(images/x2/mixi.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/mixi.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.behance {
-  background:#aaa url(images/x2/behance.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/behance.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.deviantart {
-  background:#aaa url(images/x2/deviantart.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/deviantart.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.squidoo {
-  background:#aaa url(images/x2/squidoo.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/squidoo.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.slideshare {
-  background:#aaa url(images/x2/slideshare.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/slideshare.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.lastfm {
-  background:#aaa url(images/x2/lastfm.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/lastfm.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.grooveshark {
-  background:#aaa url(images/x2/grooveshark.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/grooveshark.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.soundcloud {
-  background:#aaa url(images/x2/soundcloud.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/soundcloud.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.foursquare {
-  background:#aaa url(images/x2/foursquare.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/foursquare.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.github {
-  background:#aaa url(images/x2/github.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/github.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.linkedin {
-  background:#aaa url(images/x2/linkedin.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/linkedin.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.xing {
-  background:#aaa url(images/x2/xing.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/xing.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.wordpress {
-  background:#aaa url(images/x2/wordpress.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/wordpress.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.tumblr {
-  background:#aaa url(images/x2/tumblr.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/tumblr.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.rss {
-  background:#aaa url(images/x2/rss.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/rss.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 ul.sociallinks li a.rsscomments {
-  background:#aaa url(images/x2/rsscomments.png) 0 0 no-repeat;
+  background:#aaa url(../img/x2/rsscomments.png) 0 0 no-repeat;
   -webkit-background-size: 40px 40px;
 }
 }
