@@ -2,65 +2,39 @@
 layout: default
 ---
 
-<article id="post-44" class="post-44 post type-post status-publish format-standard hentry category-episodio">
+{% for post in paginator.posts %}
 
-  <aside class="entry-details">
-    <a href="http://zofe.com.br/zofe-1-agora-e-pra-valer/" class="entry-date">18/10/2012</a>
-  </aside><!--end .entry-details -->
+  <article class="post type-post status-publish format-standard hentry category-episodio">
 
-  <header class="entry-header">
-    <h2 class="entry-title"><a href="http://zofe.com.br/zofe-1-agora-e-pra-valer/" title="Permalink to ZOFE #1: Agora é pra valer!" rel="bookmark">ZOFE #1: Agora é pra valer!</a></h2>
-  </header><!--end .entry-header -->
+    <aside class="entry-details">
+      <a href="{{ post.url }}" class="entry-date">{{ post.date | date: "%d/%m/%y" }}</a>
+    </aside><!--end .entry-details -->
 
+    <header class="entry-header">
+      <h2 class="entry-title"><a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a></h2>
+    </header><!--end .entry-header -->
 
-  <div class="entry-content clearfix">
+    <div class="entry-content clearfix">
+      {% if post.excerpt %}
+        {{ post.excerpt | markdownify }}
+        <p><strong><a href="{{ post.url }}">Continue lendo...</a></strong></p>
+      {% else %}
+        {{ post.content }}
+      {% endif %}
+    </div><!-- end .entry-content -->
 
-            <p>No primeiro episódio oficial do Zone Of Front-Enders contamos com um convidado quase brasileiro: Mike Taylor.</p>
-<p>Ele morou no Brasil por alguns anos, hoje trabalha como &#8220;Web Opener&#8221; na Opera Software e fala português melhor que a gente. Acho que corremos risco, Zeno! :D</p>
-<p> <a href="http://zofe.com.br/zofe-1-agora-e-pra-valer/#more-44" class="more-link">Read more &rarr;</a></p>
-
-      </div><!-- end .entry-content -->
-
-
-  <footer class="entry-meta">
-    <ul>
-      <li class="entry-cats"><ul class="post-categories">
-  <li><a href="http://zofe.com.br/category/episodio/" title="View all posts in Episódio" rel="category tag">Episódio</a></li></ul></li>
-      <li class="entry-comments"><a href="http://zofe.com.br/zofe-1-agora-e-pra-valer/#respond" class="comments-link"  title="Comment on ZOFE #1: Agora é pra valer!"> </a></li>
-      <li class="entry-edit"></li>
+    <!-- <footer class="entry-meta">
+      <ul>
+        <li class="entry-cats">
+          <ul class="post-categories">
+            <li><a href="http://zofe.com.br/category/episodio/" title="View all posts in Episódio" rel="category tag">Episódio</a></li>
           </ul>
-  </footer><!-- end .entry-meta -->
+        </li>
+        <li class="entry-comments"><a href="http://zofe.com.br/zofe-1-agora-e-pra-valer/#respond" class="comments-link"  title="Comment on ZOFE #1: Agora é pra valer!"> </a></li>
+        <li class="entry-edit"></li>
+      </ul>
+    </footer> --><!-- end .entry-meta -->
 
-</article><!-- end post -44 -->
+  </article><!-- end post -->
 
-
-<article id="post-21" class="post-21 post type-post status-publish format-standard hentry category-episodio">
-
-  <aside class="entry-details">
-    <a href="http://zofe.com.br/zofe-0-apresentacao-do-zone-of-front-enders/" class="entry-date">07/10/2012</a>
-  </aside><!--end .entry-details -->
-
-  <header class="entry-header">
-    <h2 class="entry-title"><a href="http://zofe.com.br/zofe-0-apresentacao-do-zone-of-front-enders/" title="Permalink to ZOFE #0: Apresentação do Zone Of Front-Enders" rel="bookmark">ZOFE #0: Apresentação do Zone Of Front-Enders</a></h2>
-  </header><!--end .entry-header -->
-
-
-  <div class="entry-content clearfix">
-
-            <p>O episódio 0 é uma apresentação sobre a proposta do podcast. Um papo sobre a idéia, como surgiu, formato, periodicidade e muito mais.</p>
-<p>Ainda temos a entrevista zero, com Felipe Moura, um dos fundadores da fundação BrazilJS e realizador do evento BrazilJS: a maior conferência de JavaScript do universo.<br />
- <a href="http://zofe.com.br/zofe-0-apresentacao-do-zone-of-front-enders/#more-21" class="more-link">Read more &rarr;</a></p>
-
-      </div><!-- end .entry-content -->
-
-
-  <footer class="entry-meta">
-    <ul>
-      <li class="entry-cats"><ul class="post-categories">
-  <li><a href="http://zofe.com.br/category/episodio/" title="View all posts in Episódio" rel="category tag">Episódio</a></li></ul></li>
-      <li class="entry-comments"><a href="http://zofe.com.br/zofe-0-apresentacao-do-zone-of-front-enders/#respond" class="comments-link"  title="Comment on ZOFE #0: Apresentação do Zone Of Front-Enders"> </a></li>
-      <li class="entry-edit"></li>
-          </ul>
-  </footer><!-- end .entry-meta -->
-
-</article><!-- end post -21 -->
+{% endfor %}
