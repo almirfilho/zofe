@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article>
+
+  <aside class="entry-details">
+    <a href="{{ page.url }}" class="entry-date">{{ page.date | date: "%d/%m/%y" }}</a>
+  </aside><!--end .entry-details -->
+
+  <header class="entry-header">
+    <h2 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}" rel="bookmark">{{ page.title }}</a></h2>
+  </header><!--end .entry-header -->
+
+  <div class="entry-content clearfix">
+    {{ content }}
+  </div><!-- end .entry-content -->
+
+  <footer class="entry-meta">
+    <!-- <ul>
+      <li class="entry-comments"><a href="" class="comments-link"  title="Comente agora">Comente agora!</a></li>
+    </ul> -->
+  </footer><!-- end .entry-meta -->
+
+</article><!-- end page -->
