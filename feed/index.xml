@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://zofe.com.br/</id>
+  <title>Zone of Front-enders</title>
+  <icon>http://zofe.com.br/favicon.ico</icon>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <link href="http://zofe.com.br/feed/index.xml" rel="self" />
+  <link href="http://zofe.com.br/" />
+  {% for post in site.posts limit:10 %}
+  <entry>
+    <id>http://zofe.com.br{{ post.id }}/</id>
+    <title>{{ post.title | strip_html }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <link href="http://zofe.com.br{{ post.url }}" />
+    <author>
+      <name>Zone of Front-enders</name>
+      <uri>http://zofe.com.br/</uri>
+    </author>
+    <content type="html">
+      {{ post.content | replace: "src='/assets/img/", "src='http://zofe.com.br/assets/img/" | xml_escape }}
+    </content>
+  </entry>
+  {% endfor %}
+</feed>
