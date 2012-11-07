@@ -1627,6 +1627,7 @@ input.wpcf7-submit {
 .widget_search #searchform div {
   margin: 0;
 }
+.field,
 .widget_search #s {
   position:relative;
   width: 65%;
@@ -1647,6 +1648,12 @@ input.wpcf7-submit {
        -o-transition: all 0.18s ease-in-out;
           transition: all 0.18s ease-in-out;
 }
+.field.textarea{
+  padding: 1%;
+  height: 100px;
+}
+
+.submit,
 .widget_search input#searchsubmit {
   margin: 0;
   padding: 14px 12px 13px;
@@ -3356,4 +3363,14 @@ img{page-break-inside:avoid;page-break-after:avoid;}
   -ms-filter: sepia(0);
   -o-filter: sepia(0);
   filter: sepia(0);
+}
+
+/* Contact form */
+.hide{
+  display: none;
+}
+form ul li{
+  list-style: none;
+  padding: 0;
+  margin-right: 0;
 }

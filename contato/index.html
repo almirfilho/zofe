@@ -2,7 +2,14 @@
 layout: default
 ---
 
-<article id="post-15" class="post-15 page type-page status-publish hentry">
+<!-- JavaScript -->
+<script src="/assets/js/wufoo.js"></script>
+
+<!--[if lt IE 10]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<article id="contact" class="page type-page status-publish hentry">
 
   <header class="entry-header">
     <h1 class="entry-title">Contato</h1>
@@ -10,29 +17,68 @@ layout: default
 
   <div class="entry-content clearfix">
 
-    <div id="wufoo-z7x3p9">
-      Fill out my <a href="http://zofe.wufoo.com/forms/z7x3p9">online form</a>.
-    </div>
+    <form id="form1" name="form1" class="wufoo topLabel page" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://zofe.wufoo.com/forms/z7x3p9/#public">
+      <header id="header" class="info">
+        <h2>Contato</h2>
+        <div>Envie seu feedback, sugestão ou crítica.</div>
+      </header>
 
-    <script type="text/javascript">
-      var z7x3p9;(function(d, t) {
-        var s = d.createElement(t), options = {
-          'userName':'zofe',
-          'formHash':'z7x3p9',
-          'autoResize':true,
-          'height':'497',
-          'async':true,
-          'header':'show'
-        };
-        s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
-        s.onload = s.onreadystatechange = function() {
-          var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-          try { z7x3p9 = new WufooForm();z7x3p9.initialize(options);z7x3p9.display(); } catch (e) {}
-        };
-        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-      })(document, 'script');
-    </script>
+      <ul>
+        <li id="foli1" class="notranslate      ">
+          <label class="desc" id="title1" for="Field1">
+            Nome
+            <span id="req_1" class="req">*</span>
+          </label>
+          <div>
+            <input id="Field1" name="Field1" type="text" class="field text medium" value="" maxlength="255" tabindex="1" onkeyup="" required />
+          </div>
+        </li><li id="foli3" class="notranslate      ">
+        <label class="desc" id="title3" for="Field3">
+          E-mail
+          <span id="req_3" class="req">*</span>
+        </label>
+        <div>
+          <input id="Field3" name="Field3" type="email" spellcheck="false" class="field text medium" value="" maxlength="255" tabindex="2" required />
+        </div>
+      </li>
+      <li id="foli6"
+      class="notranslate      "><label class="desc" id="title6" for="Field6">
+      Mensagem
+      <span id="req_6" class="req">*</span>
+    </label>
+
+    <div>
+      <textarea id="Field6"
+      name="Field6"
+      class="field textarea medium"
+      spellcheck="true"
+      rows="10" cols="50"
+      tabindex="3"
+      onkeyup=""
+      required  ></textarea>
+
+    </div>
+  </li> <li class="buttons ">
+  <div>
+
+    <input id="saveForm" name="saveForm" class="btTxt submit"
+    type="submit" value="Submeter"
+    /></div>
+  </li>
+
+  <li class="hide">
+    <label for="comment">Do Not Fill This Out</label>
+    <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
+    <input type="hidden" id="idstamp" name="idstamp" value="MOd1wxJpuPbbJDVKAsdbaEPUoOamU+zUkZR1zvS6d+4=" />
+  </li>
+</ul>
+</form>
+
+<a href="http://wufoo.com/form-builder/" title="Powered by Wufoo"
+style="display:block; width:20em; margin:3em auto; text-decoration:none; cursor:pointer;">
+<span>powered by Wufoo</span>
+</a>
 
   </div>
-
 </article>
+
