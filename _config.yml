@@ -1,3 +1,5 @@
 paginate: 5
 permalink: /:title/
 url: http://zofe.com.br
+auto: true
+server: true
