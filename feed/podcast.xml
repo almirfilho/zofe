@@ -1,0 +1,44 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+
+    <title>Zone Of Front-Enders - Podcast</title>
+    <link>http://zofe.com.br/</link>
+    <language>pt-br</language>
+    <copyright>&#x2117; &amp; &#xA9; 2012 Daniel Filho &amp; Zeno Rocha</copyright>
+    <itunes:subtitle>Podcast sobre desenvolvimento web, front-end e afins</itunes:subtitle>
+    <itunes:author>Daniel Filho &amp; Zeno Rocha</itunes:author>
+    <itunes:summary>Um podcast quinzenal que aborda assuntos relacionados ao desenvolvimento para a internet, trazendo notícias, cobrindo eventos e entrevistas com nomes de expressão no desenvolvimento web nacional e mundial.</itunes:summary>
+    <description>Um podcast quinzenal que aborda assuntos relacionados ao desenvolvimento para a internet, trazendo notícias, cobrindo eventos e entrevistas com nomes de expressão no desenvolvimento web nacional e mundial.</description>
+
+    <itunes:owner>
+      <itunes:name>Daniel Filho</itunes:name>
+      <itunes:email>daniel@zofe.com.br</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="http://zofe.com.br/assets/zofe300.png" />
+
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+
+    {% for post in site.posts limit:10 %}
+    <item>
+      <title>{{ post.title | strip_html }}</title>
+      <itunes:author>Zone of Front-Enders</itunes:author>
+      <itunes:subtitle>{{ post.subtitle | strip_html }}</itunes:subtitle>
+      <itunes:summary>{{ post.excerpt | strip_html }}</itunes:summary>
+      <itunes:image href="{{ post.mosaico }}" />
+      <enclosure url="{{ post.audio }}.aac" length="{{ post.duration }}" type="audio/x-m4a" />
+      <guid>{{ post.audio }}.aac</guid>
+      <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+      <itunes:duration>{{ post.duration }}</itunes:duration>
+      <itunes:keywords>{{ post.tags }}</itunes:keywords>
+    </item>
+    {% endfor %}
+
+  </channel>
+</rss>
