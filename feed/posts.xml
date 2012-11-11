@@ -3,12 +3,14 @@ layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+
   <id>http://zofe.com.br/</id>
-  <title>Zone of Front-enders</title>
+  <title>Zone of Front-Enders - Blog</title>
   <icon>http://zofe.com.br/favicon.ico</icon>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <link href="http://zofe.com.br/feed/index.xml" rel="self" />
+  <link href="http://zofe.com.br/feed/posts.xml" rel="self" />
   <link href="http://zofe.com.br/" />
+
   {% for post in site.posts limit:10 %}
   <entry>
     <id>http://zofe.com.br{{ post.id }}/</id>
@@ -16,7 +18,7 @@ layout: nil
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <link href="http://zofe.com.br{{ post.url }}" />
     <author>
-      <name>Zone of Front-enders</name>
+      <name>Zone of Front-Enders</name>
       <uri>http://zofe.com.br/</uri>
     </author>
     <content type="html">
@@ -24,4 +26,5 @@ layout: nil
     </content>
   </entry>
   {% endfor %}
+
 </feed>
