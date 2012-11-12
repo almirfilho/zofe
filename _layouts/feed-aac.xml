@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+
+    <title>Zone Of Front-Enders - Podcast</title>
+    <link>http://zofe.com.br/</link>
+    <language>pt-br</language>
+    <copyright>&#x2117; &amp; &#xA9; 2012 Daniel Filho &amp; Zeno Rocha</copyright>
+    <itunes:subtitle>Podcast sobre desenvolvimento web, front-end e afins</itunes:subtitle>
+    <itunes:author>Daniel Filho &amp; Zeno Rocha</itunes:author>
+    <itunes:summary>Um podcast quinzenal que aborda assuntos relacionados ao desenvolvimento para a internet, trazendo notícias, cobrindo eventos e entrevistas com nomes de expressão no desenvolvimento web nacional e mundial.</itunes:summary>
+    <description>Um podcast quinzenal que aborda assuntos relacionados ao desenvolvimento para a internet, trazendo notícias, cobrindo eventos e entrevistas com nomes de expressão no desenvolvimento web nacional e mundial.</description>
+
+    <itunes:owner>
+      <itunes:name>Daniel Filho</itunes:name>
+      <itunes:email>daniel@zofe.com.br</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="http://zofe.com.br/assets/zofe300.png" />
+
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+
+    <item>
+      <title>{{ page.title }}</title>
+      <itunes:author>{{ page.author }}</itunes:author>
+      <itunes:subtitle>{{ page.subtitle }}</itunes:subtitle>
+      <itunes:summary>{{ content }}</itunes:summary>
+      <itunes:image href="{{ page.mosaico300 }}" />
+      <enclosure url="{{ page.audio }}.aac" length="{{ page.podcastLength }}" type="audio/x-m4a" />
+      <guid>{{ page.audio }}.aac</guid>
+      <pubDate>{{ page.podcastPubDate }}</pubDate>
+      <itunes:duration>{{ podcast.duration }}</itunes:duration>
+      <itunes:keywords>{{ podcast.tags }}</itunes:keywords>
+    </item>
+
+  </channel>
+</rss>
