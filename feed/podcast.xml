@@ -32,9 +32,9 @@ layout: nil
       <itunes:subtitle>{{ post.subtitle | strip_html }}</itunes:subtitle>
       <itunes:summary>{{ post.excerpt | strip_html }}</itunes:summary>
       <itunes:image href="{{ post.mosaico }}" />
-      <enclosure url="{{ post.audio }}.aac" length="{{ post.duration }}" type="audio/x-m4a" />
-      <guid>{{ post.audio }}.aac</guid>
-      <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+      <enclosure url="{{ post.audio }}.m4a" length="{{ post.duration }}" type="audio/x-m4a" />
+      <guid>{{ post.audio }}.m4a</guid>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <itunes:duration>{{ post.duration }}</itunes:duration>
       <itunes:keywords>{{ post.tags }}</itunes:keywords>
     </item>
