@@ -14,6 +14,39 @@ layout: default
 
   <div class="entry-content clearfix">
     {{ content }}
+
+  <p>
+    <audio id="episodeID" class="podcastPlayer" width="300" height="32" controls="controls" autobuffer="autobuffer" itemscope="" itemtype="http://schema.org/AudioObject">
+      <source src="{{ page.audio }}.mp3">
+        <meta itemprop="encodingFormat" content="mp3">
+        <meta itemprop="contentURL" content="{{ page.audio }}.mp3">
+        <meta itemprop="duration" content="{{ post.durationMeta }}">
+      </source>
+
+      <source src="{{ page.audio }}.mp3">
+        <meta itemprop="encodingFormat" content="mp3">
+        <meta itemprop="contentURL" content="{{ page.audio }}.mp3">
+        <meta itemprop="duration" content="{{ post.durationMeta }}">
+      </source>
+
+      <source src="{{ page.audio }}.ogg">
+        <meta itemprop="encodingFormat" content="ogg">
+        <meta itemprop="contentURL" content="{{ page.audio }}.ogg">
+        <meta itemprop="duration" content="{{ post.durationMeta }}">
+      </source>
+    </audio>
+  </p>
+
+<p>Link para AAC/M4A [iTunes, iOS, arquivo multimídia]:<br>
+<a title="AAC/M4A: Formato multimídia" href="{{ page.audio }}.m4a">{{ page.audio }}.m4a</a></p>
+
+<p>Link para MP3:<br>
+<a title="MP3" href="{{ page.audio }}.mp3">{{ page.audio }}.mp3</a></p>
+
+<p>Link para OGG:<br>
+<a title="OGG" href="{{ page.audio }}.ogg">{{ page.audio }}.ogg</a></p>
+
+
   </div><!-- end .entry-content -->
 
   <footer class="entry-meta">

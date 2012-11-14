@@ -3374,3 +3374,8 @@ form ul li{
   padding: 0;
   margin-right: 0;
 }
+
+/* player */
+.podcastPlayer{
+  width: 700px;
+}
