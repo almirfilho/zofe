@@ -12,6 +12,7 @@ layout: nil
     <itunes:subtitle>Podcast sobre desenvolvimento web, front-end e afins</itunes:subtitle>
     <itunes:author>Daniel Filho &amp; Zeno Rocha</itunes:author>
     <itunes:summary>Um podcast quinzenal que aborda assuntos relacionados ao desenvolvimento para a internet, trazendo notícias, cobrindo eventos e entrevistas com nomes de expressão no desenvolvimento web nacional e mundial.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
     <description>Um podcast quinzenal que aborda assuntos relacionados ao desenvolvimento para a internet, trazendo notícias, cobrindo eventos e entrevistas com nomes de expressão no desenvolvimento web nacional e mundial.</description>
 
     <itunes:owner>
@@ -19,7 +20,7 @@ layout: nil
       <itunes:email>daniel@zofe.com.br</itunes:email>
     </itunes:owner>
 
-    <itunes:image href="http://zofe.com.br/assets/zofe300.png" />
+    <itunes:image href="http://zofe.com.br/assets/img/zofe300.png" />
 
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
