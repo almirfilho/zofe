@@ -1,5 +1,5 @@
 paginate: 5
-permalink: /:title/
+permalink: /posts/:title/
 url: http://zofe.com.br
 auto: true
 server: true
