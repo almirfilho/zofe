@@ -3,32 +3,38 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
+<article>
 
-  <article>
+  <aside class="entry-details">
+    <a href="{{ post.url }}" class="entry-date">{{ post.date | date: "%d/%m/%y" }}</a>
+  </aside>
 
-    <aside class="entry-details">
-      <a href="{{ post.url }}" class="entry-date">{{ post.date | date: "%d/%m/%y" }}</a>
-    </aside><!--end .entry-details -->
+  <header class="entry-header">
+    <h2 class="entry-title"><a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a></h2>
+  </header>
 
-    <header class="entry-header">
-      <h2 class="entry-title"><a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a></h2>
-    </header><!--end .entry-header -->
+  <div class="entry-content clearfix">
+    {% if post.excerpt %}
+      {{ post.excerpt | markdownify }}
+      <p><a href="{{ post.url }}" class="more-link">Continue lendo →</a></p>
+    {% else %}
+      {{ post.content }}
+    {% endif %}
+  </div>
 
-    <div class="entry-content clearfix">
-      {% if post.excerpt %}
-        {{ post.excerpt | markdownify }}
-        <p><a href="{{ post.url }}" class="more-link">Continue lendo →</a></p>
-      {% else %}
-        {{ post.content }}
-      {% endif %}
-    </div><!-- end .entry-content -->
-
-    <footer class="entry-meta">
-      <!-- <ul>
-        <li class="entry-comments"><a href="" class="comments-link"  title="Comente agora">Comente agora!</a></li>
-      </ul> -->
-    </footer><!-- end .entry-meta -->
-
-  </article><!-- end post -->
-
+</article>
 {% endfor %}
+
+<section id="pagination">
+  {% if paginator.previous_page %}
+  {% if paginator.previous_page == 1 %}
+  <a class="pagination-prev" href="/">← Recentes</a>
+  {% else %}
+  <a class="pagination-prev" href="/page{{paginator.previous_page}}">← Recentes</a>
+  {% endif %}
+  {% endif %}
+
+  {% if paginator.next_page %}
+  <a class="pagination-next" href="/page{{paginator.next_page}}">Antigos →</a>
+  {% endif %}
+</section>
