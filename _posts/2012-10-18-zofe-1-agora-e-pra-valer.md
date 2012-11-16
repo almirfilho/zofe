@@ -11,15 +11,19 @@ layout: post
 ---
 
 {% excerpt %}
-<p>No primeiro episódio oficial do Zone Of Front-Enders contamos com um convidado quase brasileiro: Mike Taylor.</p>
-<p>Ele morou no Brasil por alguns anos, hoje trabalha como “Web Opener” na Opera Software e fala português melhor que a gente. Acho que corremos risco, Zeno! :D</p>
+No primeiro episódio oficial do Zone Of Front-Enders contamos com um convidado quase brasileiro: Mike Taylor.
+
+Ele morou no Brasil por alguns anos, hoje trabalha como “Web Opener” na Opera Software e fala português melhor que a gente. Acho que corremos risco, Zeno! :D
 {% endexcerpt %}
 
-<p style="text-align: center;"><img class="alignnone" title="Mosaico do episódio 1" src="http://i.imgur.com/HwwDi.png" alt="" width="600" height="600"></p>
+<p style="text-align: center;">
+	<img class="alignnone" title="Mosaico do episódio 1" src="http://i.imgur.com/HwwDi.png" alt="" width="600" height="600" />
+</p>
 
-<p>Recomendamos que baixem a versão AAC e ouçam em seu iPod, iPhone ou iTunes. O conteúdo é mais rico, com links e imagens.</p>
+Recomendamos que baixem a versão AAC e ouçam em seu iPod, iPhone ou iTunes. O conteúdo é mais rico, com links e imagens.
 
-<p><strong>Notícias:</strong><br>
+## Notícias
+
 [2:02] <a title="The Future Of Web Gaming" href="http://www.youtube.com/watch?v=Voz0-5Ynpyo" target="_blank">The Future of Web Gaming</a><br>
 [3:35] <a title="Web Platform" href="http://webplatform.org" target="_blank">WebPlatform.org</a><br>
 [4:28] <a title="NodeCopter JS" href="http://nodecopter.com" target="_blank">NodeCopter</a><br>

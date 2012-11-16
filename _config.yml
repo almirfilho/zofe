@@ -1,5 +1,6 @@
-paginate: 5
+paginate:  5
 permalink: /posts/:title/
-url: http://zofe.com.br
-auto: true
-server: true
+url:       http://zofe.com.br
+auto:      true
+server:    true
+markdown:  maruku
