@@ -354,11 +354,17 @@ dl dd {
   display:block;
   position: relative;
 }
+
+.entry-content {
+  border-bottom: 1px dotted #ccc;
+}
+
 .entry-content,
 .entry-summary {
   max-width:100%;
   margin:0 auto;
   padding: 0 20px 30px;
+  margin-bottom: 10px;
 }
 /* --- Post Formats --- */
 .format-image .entry-content,
@@ -2712,7 +2718,7 @@ h6 {
 }
 .entry-content,
 .entry-summary {
-  padding-bottom:50px;
+  padding-bottom:30px;
 }
 .entry-content p,
 .entry-summary p {
@@ -3413,4 +3419,18 @@ form.wufoo {
   form.wufoo .submit:hover {
     background: #333;
     color: white;
+  }
+
+#pagination {
+  width: 660px;
+  height: 30px;
+  margin: auto;
+}
+
+  #pagination .pagination-prev {
+    float: left;
+  }
+
+  #pagination .pagination-next {
+    float: right;
   }
