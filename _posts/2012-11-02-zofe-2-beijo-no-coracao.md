@@ -46,7 +46,7 @@ Toda a entrevista foi feita durante a [Conferência Web.BR](http://conferenciawe
 
 \[48:17\] [Front In Maceió](http://frontinmaceio.com.br/ "Front In Maceió")<br />
 	— [Palestra do Loop Infinito – HTML5 Sensitivo](https://speakerdeck.com/loopinfinito/html5-sensitivo-seu-browser-no-plano-astral "Palestra do Loop Infinito – HTML5 Sensitivo")<br />
-\[50:07\] [Front In Sampa – ["BRAZILJSFINAL"]](http://www.frontinsampa.com.br/ "Front In Sampa")
+\[50:07\] [Front In Sampa – \["BRAZILJSFINAL"\]](http://www.frontinsampa.com.br/ "Front In Sampa")
 
 ## Links:
 
