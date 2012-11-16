@@ -3379,3 +3379,38 @@ form ul li{
 .podcastPlayer{
   width: 700px;
 }
+
+form.wufoo {
+
+}
+
+  form.wufoo ul {
+    width: 445px;
+    margin: auto;
+    margin-top: 30px;
+  }
+
+  form.wufoo label {
+    display: block;
+  }
+
+  form.wufoo label::after {
+    content: '*';
+    margin-left: 5px;
+    color: red;
+  }
+
+  form.wufoo .field {
+    width: 435px;
+    margin-bottom: 10px;
+  }
+
+  form.wufoo li.buttons a {
+    float: right;
+    line-height: 45px;
+  }
+
+  form.wufoo .submit:hover {
+    background: #333;
+    color: white;
+  }
