@@ -17,19 +17,19 @@ layout: default
 
     <p>
       <audio id="episodeID" class="podcastPlayer" width="300" height="32" controls="controls" autobuffer="autobuffer" itemscope="" itemtype="http://schema.org/AudioObject">
-        <source src="{{ page.audio }}.m4a">
+        <source src="{{ page.audio }}.m4a" type="audio/mp4a-latm">
           <meta itemprop="encodingFormat" content="m4a">
           <meta itemprop="contentURL" content="{{ page.audio }}.m4a">
           <meta itemprop="duration" content="{{ post.durationMeta }}">
         </source>
 
-        <source src="{{ page.audio }}.mp3">
+        <source src="{{ page.audio }}.mp3" type="audio/mpeg">
           <meta itemprop="encodingFormat" content="mp3">
           <meta itemprop="contentURL" content="{{ page.audio }}.mp3">
           <meta itemprop="duration" content="{{ post.durationMeta }}">
         </source>
 
-        <source src="{{ page.audio }}.ogg">
+        <source src="{{ page.audio }}.ogg" type="audio/ogg">
           <meta itemprop="encodingFormat" content="ogg">
           <meta itemprop="contentURL" content="{{ page.audio }}.ogg">
           <meta itemprop="duration" content="{{ post.durationMeta }}">
