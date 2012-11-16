@@ -24,22 +24,22 @@ Recomendamos que baixem a versão AAC e ouçam em seu iPod, iPhone ou iTunes. O 
 
 ## Notícias
 
-[2:02] <a title="The Future Of Web Gaming" href="http://www.youtube.com/watch?v=Voz0-5Ynpyo" target="_blank">The Future of Web Gaming</a><br>
-[3:35] <a title="Web Platform" href="http://webplatform.org" target="_blank">WebPlatform.org</a><br>
-[4:28] <a title="NodeCopter JS" href="http://nodecopter.com" target="_blank">NodeCopter</a><br>
-[7:47] <a title="VMWare's Scripted" href="https://github.com/scripted-editor/scripted" target="_blank">Scripted</a></p>
+\[2:02\] [The Future Of Web Gaming](http://www.youtube.com/watch?v=Voz0-5Ynpyo "The Future Of Web Gaming")<br />
+\[3:35\] [WebPlatform.org](http://webplatform.org "Web Platform")<br />
+\[4:28\] [NodeCopter](http://nodecopter.com "NodeCopter JS")<br />
+\[7:47\] [Scripted](https://github.com/scripted-editor/scripted "VMWare's Scripted")
 
-<p><strong>Entrevista</strong>:<br>
+## Entrevista
 
-[11:16] Início da entrevista com <a title="Mike Taylor" href="http://miketaylr.com" target="_blank">Mike Taylor</a><br>
-{ os links da conversa serão postados em breve }</p>
+\[11:16\] Início da entrevista com [Mike Taylor](http://miketaylr.com)<br />
+{ os links da conversa serão postados em breve }
 
-<p><strong>Eventos</strong>:<br>
+## Eventos
 
-[48:29] <a title="W3C Web.BR" href="http://conferenciaweb.w3c.br" target="_blank">W3C Web.BR</a><br>
-[50:55] <a title="YAPC::2012" href="http://yapcbrasil.org.br/2012" target="_blank">YAPC::2012</a><br>
-[51:24] <a title="BB Jam Sessions" href="http://blackberryjamsessions.com" target="_blank">BlackBerry Jam Sessions</a></p>
+\[48:29\] [W3C Web.BR](http://conferenciaweb.w3c.br)<br />
+\[50:55\] [YAPC::2012](http://yapcbrasil.org.br/2012)<br />
+\[51:24\] [BlackBerry Jam Sessions](http://blackberryjamsessions.com)
 
-<p><strong>Errata</strong>:<br>
+## Errata
 
-[36:50] MDN não é uma wiki criada por um navegador e sim pela fundação Mozilla na qual tem como principal produto um navegador.</p>
+\[36:50\] MDN não é uma wiki criada por um navegador e sim pela fundação Mozilla na qual tem como principal produto um navegador.
