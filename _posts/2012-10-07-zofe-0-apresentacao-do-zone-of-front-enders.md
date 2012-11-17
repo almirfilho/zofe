@@ -18,8 +18,8 @@ Ainda temos a entrevista zero, com Felipe Moura, um dos fundadores da fundação
 
 Recomendamos que baixem a versão AAC e ouçam em seu iPod, iPhone ou iTunes. O conteúdo é mais rico, com links e imagens.
 
-\[0:53\] Apresentação dos apresentadores<br />
-\[3:33\] A idéia e o formato do podcast<br />
-\[7:40\] De onde surgiu o nome Zone Of The Front-Enders \[[vídeo citado](http://www.youtube.com/watch?v=aPVOxvABhdA "Zone Of The Enders")\]<br />
-\[9:30\] A proposta do ZOFE<br />
+\[0:53\] Apresentação dos apresentadores
+\[3:33\] A idéia e o formato do podcast
+\[7:40\] De onde surgiu o nome Zone Of The Front-Enders \[[vídeo citado](http://www.youtube.com/watch?v=aPVOxvABhdA "Zone Of The Enders")\]
+\[9:30\] A proposta do ZOFE
 \[14:56\] Entrevista com Felipe Moura da fundação [BrazilJS](http://braziljs.org/ "BrazilJS Foundation") e [Terra](http://terra.com.br/ "Portal Terra")

@@ -1542,7 +1542,7 @@ input.wpcf7-submit {
 .widget {
   margin: 0;
   padding:60px 20px;
-  background:#f6f6f6;
+  background:#fff;
   text-align:center;
 }
 .widget-wrap {
@@ -3350,6 +3350,11 @@ img.alignleft{display:inline;margin:0 7px 2px 0;padding:4px;}
 img{page-break-inside:avoid;page-break-after:avoid;}
 }
 
+/* ============================================================= */
+/* ====================       CUSTOMS       ==================== */
+/* ==================== Zone Of Front-Enders =================== */
+/* ============================================================= */
+
 .about-image {
   -webkit-filter: sepia(100%);
   -moz-filter: sepia(100%);
@@ -3371,66 +3376,63 @@ img{page-break-inside:avoid;page-break-after:avoid;}
   filter: sepia(0);
 }
 
-/* Contact form */
-.hide{
-  display: none;
-}
-form ul li{
-  list-style: none;
-  padding: 0;
-  margin-right: 0;
+.mosaico{
+  display: block;
+  cleat: both;
+  max-width: 600px;
+  max-height: 600px;
+  margin: 1em auto;
 }
 
-/* player */
+/* Podcast Player */
 .podcastPlayer{
   width: 700px;
 }
 
-form.wufoo {
-
+/* Contato */
+.wufoo .hide{
+  display: none;
+}
+.wufoo ul li{
+  list-style: none;
+  padding: 0;
+  margin-right: 0;
+}
+form.wufoo ul {
+  width: 445px;
+  margin: auto;
+  margin-top: 30px;
+}
+form.wufoo label {
+  display: block;
+}
+form.wufoo label::after {
+  content: '*';
+  margin-left: 5px;
+  color: red;
+}
+form.wufoo .field {
+  width: 435px;
+  margin-bottom: 10px;
+}
+form.wufoo li.buttons a {
+  float: right;
+  line-height: 45px;
+}
+form.wufoo .submit:hover {
+  background: #333;
+  color: white;
 }
 
-  form.wufoo ul {
-    width: 445px;
-    margin: auto;
-    margin-top: 30px;
-  }
-
-  form.wufoo label {
-    display: block;
-  }
-
-  form.wufoo label::after {
-    content: '*';
-    margin-left: 5px;
-    color: red;
-  }
-
-  form.wufoo .field {
-    width: 435px;
-    margin-bottom: 10px;
-  }
-
-  form.wufoo li.buttons a {
-    float: right;
-    line-height: 45px;
-  }
-
-  form.wufoo .submit:hover {
-    background: #333;
-    color: white;
-  }
-
+/* Paginacao */
 #pagination {
   width: 660px;
   height: 30px;
   margin: auto;
 }
-
-  #pagination .pagination-prev {
-    float: left;
-  }
-
-  #pagination .pagination-next {
-    float: right;
-  }
+#pagination .pagination-prev {
+  float: left;
+}
+#pagination .pagination-next {
+  float: right;
+}

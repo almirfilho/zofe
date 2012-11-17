@@ -6,7 +6,7 @@ mosaico: http://i.imgur.com/ZSyFi.png
 audio: http://zofe.com.br/episodios/zofe-02-beijo-no-coracao
 duration: '56:52'
 durationMeta: T56M52S
-tags: w3c
+tags: w3c, episodio
 layout: post
 ---
 
@@ -14,9 +14,7 @@ layout: post
 Chegamos no segundo episódio do Zone Of Front-Enders. A entrevista da vez é dupla: Reinaldo Ferraz e Yasodara Córdova. Ambos trabalham como “Developer Relations” no escritório brasileiro do W3C.
 {% endexcerpt %}
 
-<p style="text-align: center;">
-	<img title="Mosaico - Episódio 2 - Beijo no Coração" src="http://i.imgur.com/ZSyFi.png" alt="" width="600" height="600" />
-</p>
+<img title="Mosaico - Episódio 2 - Beijo no Coração" src="http://i.imgur.com/ZSyFi.png" class="mosaico" alt="" width="600" height="600">
 
 Recomendamos que baixem a versão AAC e ouçam em seu iPod, iPhone ou iTunes. O conteúdo é mais rico, com links e imagens.
 
@@ -24,19 +22,19 @@ Toda a entrevista foi feita durante a [Conferência Web.BR](http://conferenciawe
 
 ## Momento IE6
 
-\[2:40\] Momento IE6 – Apresentação<br />
-\[2:52\] Momento IE6 – Arduino (valeu William Oliveira!)<br />
+\[2:40\] Momento IE6 – Apresentação<br>
+\[2:52\] Momento IE6 – Arduino (valeu William Oliveira!)<br>
 \[4:02\] Momento IE6 – MDN (valeu Jaydson!)
 
 ## Notícias:
 
-\[4:42\] [TPAC W3C](http://www.w3.org/2012/10/TPAC/ "TPAC W3C")<br />
-\[5:25\] [Prioridades do CSSWG](http://disruptive-innovations.com/zoo/customers/CSSWG/Priorities.html "Prioridades do CSSWG")<br />
-\[7:15\] [YUI Compressor](http://www.yuiblog.com/blog/2012/10/16/state-of-yui-compressor/ "YUI Compressor")<br />
-\[9:12\] [Chrome Canary suporta &lt;input type=date /&gt; e &lt;input type=time /&gt;](https://twitter.com/danielfilho/status/263318786327855105 "Twitter: Canary suporta a type date e time em inputs")<br />
-\[9:53\] [Components](https://github.com/component/component "Components")<br />
-	— [Post do Miller Medeiros](http://blog.millermedeiros.com/stop-writing-plugins-start-writing-components/ "Post do Miller Medeiros")<br />
-	— [Como foi a Conferência Web.BR](http://conferenciaweb.w3c.br "Como foi a Conferência Web.BR")
+\[4:42\] [TPAC W3C](http://www.w3.org/2012/10/TPAC/ "TPAC W3C")<br>
+\[5:25\] [Prioridades do CSSWG](http://disruptive-innovations.com/zoo/customers/CSSWG/Priorities.html "Prioridades do CSSWG")<br>
+\[7:15\] [YUI Compressor](http://www.yuiblog.com/blog/2012/10/16/state-of-yui-compressor/ "YUI Compressor")<br>
+\[9:12\] [Chrome Canary suporta &lt;input type=date /&gt; e &lt;input type=time /&gt;](https://twitter.com/danielfilho/status/263318786327855105 "Twitter: Canary suporta a type date e time em inputs")<br>
+\[9:53\] [Components](https://github.com/component/component "Components")<br>
+  — [Post do Miller Medeiros](http://blog.millermedeiros.com/stop-writing-plugins-start-writing-components/ "Post do Miller Medeiros")<br>
+  — [Como foi a Conferência Web.BR](http://conferenciaweb.w3c.br "Como foi a Conferência Web.BR")
 
 ## Entrevista:
 
@@ -44,8 +42,8 @@ Toda a entrevista foi feita durante a [Conferência Web.BR](http://conferenciawe
 
 ## Eventos:
 
-\[48:17\] [Front In Maceió](http://frontinmaceio.com.br/ "Front In Maceió")<br />
-	— [Palestra do Loop Infinito – HTML5 Sensitivo](https://speakerdeck.com/loopinfinito/html5-sensitivo-seu-browser-no-plano-astral "Palestra do Loop Infinito – HTML5 Sensitivo")<br />
+\[48:17\] [Front In Maceió](http://frontinmaceio.com.br/ "Front In Maceió")<br>
+  — [Palestra do Loop Infinito – HTML5 Sensitivo](https://speakerdeck.com/loopinfinito/html5-sensitivo-seu-browser-no-plano-astral "Palestra do Loop Infinito – HTML5 Sensitivo")<br>
 \[50:07\] [Front In Sampa – \["BRAZILJSFINAL"\]](http://www.frontinsampa.com.br/ "Front In Sampa")
 
 ## Links:
@@ -64,6 +62,6 @@ Toda a entrevista foi feita durante a [Conferência Web.BR](http://conferenciawe
 
 ## Siga o ZOFE
 
-[Zone Of Front-Enders no Facebook: fb.com/zofepod](http://fb.com/zofepod/ "ZOFE no Facebook: fb.com/zofepod")<br />
-[Zone Of Front-Enders no Twitter: twitter.com/zofepod](http://twitter.com/zofepod/ "ZOFE no Twitter")<br />
+[Zone Of Front-Enders no Facebook: fb.com/zofepod](http://fb.com/zofepod/ "ZOFE no Facebook: fb.com/zofepod")<br>
+[Zone Of Front-Enders no Twitter: twitter.com/zofepod](http://twitter.com/zofepod/ "ZOFE no Twitter")<br>
 \[55:11\] Zone Of Front-Enders no Google+: &nbsp;URL só ouvindo.
