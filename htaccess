@@ -2,6 +2,17 @@
 layout: none
 permalink: .htaccess
 ---
+# compress text, html, javascript, css, xml:
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+
 RewriteEngine on
 RedirectMatch 301 /zofe-0-apresentacao-do-zone-of-front-enders(.*) /posts/zofe-0-apresentacao-do-zone-of-front-enders$1
 RedirectMatch 301 /zofe-1-agora-e-pra-valer(.*) /posts/zofe-1-agora-e-pra-valer$1
