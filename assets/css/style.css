@@ -3376,13 +3376,15 @@ img{page-break-inside:avoid;page-break-after:avoid;}
 }
 
 /* Post */
-.entry-content a{
+.entry-content a,
+.podcastfeed a{
   padding: 3px 5px;
   border-radius: 3px;
   background-color: #F0DB4F;
   color: #333;
 }
-.entry-content a:hover{
+.entry-content a:hover,
+.podcastfeed a:hover{
   background-color: #333;
   color: #F0DB4F;
 }
@@ -3450,7 +3452,6 @@ form.wufoo .submit:hover {
 
 /* Busca */
 .buscaBtn .buscaWrapper{
-  display: block;
   position: absolute;
   left: -30px;
   top: 8px;
@@ -3465,12 +3466,10 @@ form.wufoo .submit:hover {
   transition        : opacity 100ms ease-in-out;
 }
 .buscaBtn:hover .buscaWrapper{
-  display: block;
   opacity: 1;
 }
 .buscaBtn .buscaWrapper .searchSubmit,
 .buscaBtn .buscaWrapper .searchSubmit:hover{
-
   margin: 0;
   padding: 14px 12px 13px;
   border:none;
