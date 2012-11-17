@@ -6,7 +6,7 @@ mosaico: http://i.imgur.com/HwwDi.png
 audio: http://zofe.com.br/episodios/zofe-0-apresentacao
 duration: '48:21'
 durationMeta: T48M21S
-tags: braziljs
+tags: episodio, braziljs, felipe-moura, braziljs-conf
 layout: post
 ---
 

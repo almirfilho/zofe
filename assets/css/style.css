@@ -149,7 +149,6 @@ input.wpcf7-submit,
 a:hover,
 .entry-details a.entry-date:hover,
 .entry-meta a:hover,
-#content .entry-content p a:hover,
 #content .entry-summary p a:hover,
 .widget-area .textwidget a:hover,
 #content #comments .comment-text a:hover,
@@ -3355,6 +3354,7 @@ img{page-break-inside:avoid;page-break-after:avoid;}
 /* ==================== Zone Of Front-Enders =================== */
 /* ============================================================= */
 
+/* Imagem do SOBRE */
 .about-image {
   -webkit-filter: sepia(100%);
   -moz-filter: sepia(100%);
@@ -3367,13 +3367,24 @@ img{page-break-inside:avoid;page-break-after:avoid;}
   -o-transition: all 200ms ease-in-out;
   transition: all 200ms ease-in-out;
 }
-
 .about-image:hover {
   -webkit-filter: sepia(0);
   -moz-filter: sepia(0);
   -ms-filter: sepia(0);
   -o-filter: sepia(0);
   filter: sepia(0);
+}
+
+/* Post */
+.entry-content a{
+  padding: 3px 5px;
+  border-radius: 3px;
+  background-color: #F0DB4F;
+  color: #333;
+}
+.entry-content a:hover{
+  background-color: #333;
+  color: #F0DB4F;
 }
 
 .mosaico{
