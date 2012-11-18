@@ -2001,6 +2001,9 @@ ul.sociallinks li a.rss {
 ul.sociallinks li a.rsscomments {
   background: url(../img/socialicons.png) -1080px 0 no-repeat;
 }
+ul.sociallinks li a.itunes {
+  background: url(../img/socialicons.png) -1120px 0 no-repeat;
+}
 
 /*-----------------------------------------------------------------------------------*/
 /*  Footer
