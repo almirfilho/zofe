@@ -1,4 +1,4 @@
-/*
+f/*
 Theme Name: Zone Of Front-Enders
 Theme URI: http://zofe.com.br/
 Description: Zone of Front-Enders.
@@ -2597,8 +2597,30 @@ text-align: center;
 /*-----------------------------------------------------------------------------------*/
 /*  CSS3 Media Queries for Responsiveness (mobile-first, from small to big)
 /*-----------------------------------------------------------------------------------*/
+@media screen and (max-width: 479px){
+
+/* player */
+.podcastPlayer{
+  max-width: 100%;
+}
+/* mosaico */
+.entry-content .mosaico{
+  max-width: 100%;
+}
+
+}
+
 /* --- smartphones in landscape mode --- */
 @media screen and (min-width: 480px) {
+/* player */
+.podcastPlayer{
+  max-width: 100%;
+}
+/* mosaico */
+.entry-content .mosaico{
+  max-width: 100%;
+}
+
 /* --- Alignment --- */
 .alignleft {
   display:inline;
@@ -2628,6 +2650,15 @@ img.wp-post-image {
 
 /* --- tablets in portrait mode --- */
 @media screen and (min-width: 768px) {
+/* player */
+.podcastPlayer{
+  max-width: 100%;
+}
+/* mosaico */
+.entry-content .mosaico{
+  max-width: 100%;
+}
+
 /* --- General Structure --- */
 #branding,
 .page-header,
@@ -2950,6 +2981,16 @@ img.wp-post-image {
 body {
   font-size: 115%;
 }
+
+/* player */
+.podcastPlayer{
+  max-width: 100%;
+}
+/* mosaico */
+.entry-content .mosaico{
+  max-width: 100%;
+}
+
 .page-header,
 .entry-content,
 .entry-summary,
