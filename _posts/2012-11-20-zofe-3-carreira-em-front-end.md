@@ -30,11 +30,18 @@ Agora você pode deixar seus comentários no post do episódio (no caso deste, n
 \[7:40\] [xRTML Contest](http://contest.xrtml.org/)<br>
 \[10:24\] [BrazilJS: Eventos](http://braziljs.org/eventos) e [BrazilJS: Projetos](http://braziljs.org/projetos)<br>
 
-### \[12:38\] Bate-papo: Carreira Front-End<br>
+### Bate-papo
+
+\[12:38\] Carreira Front-End<br>
+\[19:24\] [Pesquisando sobre Front-end](http://danielfilho.info/blog/pesquisando-sobre-front-end/)<br>
+\[21:33\] [Bons Front-enders](https://github.com/leobetosouza/bons-front-enders)<br>
+\[21:53\] [Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)<br>
+
+### Eventos
 
 \[59:41\] [Front in Sampa](http://www.frontinsampa.com.br/)<br>
 \[1:00:00\] [EATI](http://www.cafw.ufsm.br/eati/2012/)<br>
-\[1:01:57\] [Front InTerior](http://www.frontinterior.com.br)<br>
+\[1:01:57\] [FrontInterior](http://www.frontinterior.com.br)<br>
 \[1:04:28\] [DevFest](http://devfest.com.br)<br>
 
 
