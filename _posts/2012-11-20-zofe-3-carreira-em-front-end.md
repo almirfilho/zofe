@@ -36,6 +36,8 @@ Agora você pode deixar seus comentários no post do episódio (no caso deste, n
 \[19:24\] [Pesquisando sobre Front-end](http://danielfilho.info/blog/pesquisando-sobre-front-end/)<br>
 \[21:33\] [Bons Front-enders](https://github.com/leobetosouza/bons-front-enders)<br>
 \[21:53\] [Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)<br>
+\[35:55\] [Estou iniciando em javascript, por onde começo?](http://javascriptbrasil.com/artigos/estou-iniciando-em-javascript-por-onde-comeco)<br>
+\[36:10\] [Quero aprender ou conhecer melhor JavaScript. Por onde começar?](http://www.luiztiago.com/post/34760239764/quero-aprender-ou-conhecer-melhor-javascript-por-onde)<br>
 
 ### Eventos
 
