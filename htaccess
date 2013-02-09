@@ -15,45 +15,45 @@ permalink: .htaccess
 # JavaScript
 #   Normalize to standard type (it's sniffed in IE anyways)
 #   tools.ietf.org/html/rfc4329#section-7.2
-AddType application/javascript      js jsonp
-AddType application/json      json
+AddType application/javascript            js jsonp
+AddType application/json                  json
 
 # Audio
-AddType audio/ogg       oga ogg
-AddType audio/mp4       m4a f4a f4b
+AddType audio/ogg                         oga ogg
+AddType audio/mp4                         m4a f4a f4b
 
 # Video
-AddType video/ogg       ogv
-AddType video/mp4       mp4 m4v f4v f4p
-AddType video/webm        webm
-AddType video/x-flv       flv
+AddType video/ogg                         ogv
+AddType video/mp4                         mp4 m4v f4v f4p
+AddType video/webm                        webm
+AddType video/x-flv                       flv
 
 # SVG
 #   Required for svg webfonts on iPad
 #   twitter.com/FontSquirrel/status/14855840545
-AddType   image/svg+xml     svg svgz
-AddEncoding gzip        svgz
+AddType   image/svg+xml                   svg svgz
+AddEncoding gzip                          svgz
 
 # Webfonts
-AddType application/vnd.ms-fontobject   eot
-AddType application/x-font-ttf      ttf ttc
-AddType font/opentype       otf
-AddType application/x-font-woff     woff
+AddType application/vnd.ms-fontobject     eot
+AddType application/x-font-ttf            ttf ttc
+AddType font/opentype                     otf
+AddType application/x-font-woff           woff
 
 # Assorted types
-AddType image/x-icon        ico
-AddType image/webp        webp
-AddType text/cache-manifest     appcache manifest
-AddType text/x-component      htc
-AddType application/xml       rss atom xml rdf
+AddType image/x-icon                      ico
+AddType image/webp                        webp
+AddType text/cache-manifest               appcache manifest
+AddType text/x-component                  htc
+AddType application/xml                   rss atom xml rdf
 AddType application/x-chrome-extension    crx
-AddType application/x-opera-extension   oex
-AddType application/x-xpinstall     xpi
-AddType application/octet-stream    safariextz
+AddType application/x-opera-extension     oex
+AddType application/x-xpinstall           xpi
+AddType application/octet-stream          safariextz
 AddType application/x-web-app-manifest+json webapp
-AddType text/x-vcard        vcf
-AddType application/x-shockwave-flash   swf
-AddType text/vtt        vtt
+AddType text/x-vcard                      vcf
+AddType application/x-shockwave-flash     swf
+AddType text/vtt                          vtt
 
 # --------------------------------------------------------------------------------------
 # Compression: http://code.google.com/speed/page-speed/docs/payload.html#GzipCompression
@@ -68,6 +68,16 @@ AddType text/vtt        vtt
   AddOutputFilter DEFLATE text/plain
   AddOutputFilter DEFLATE text/x-component
   AddOutputFilter DEFLATE text/xml
+
+  AddOutputFilterByType DEFLATE text/html
+  AddOutputFilterByType DEFLATE text/xml
+  AddOutputFilterByType DEFLATE text/css
+  AddOutputFilterByType DEFLATE application/xml
+  AddOutputFilterByType DEFLATE application/xhtml+xml
+  AddOutputFilterByType DEFLATE application/rss+xml
+  AddOutputFilterByType DEFLATE application/javascript
+  AddOutputFilterByType DEFLATE application/x-javascript
+
 
   # The following MIME types are in the process of registration
   AddOutputFilter DEFLATE application/xslt+xml
@@ -143,38 +153,38 @@ AddType text/vtt        vtt
 <IfModule mod_expires.c>
   ExpiresActive On
 
-  ExpiresByType application/json      "access plus 1 year"
-  ExpiresByType application/pdf     "access plus 1 year"
+  ExpiresByType application/json              "access plus 1 year"
+  ExpiresByType application/pdf               "access plus 1 year"
   ExpiresByType application/x-shockwave-flash "access plus 1 year"
-  ExpiresByType image/bmp       "access plus 1 year"
-  ExpiresByType image/gif       "access plus 1 year"
-  ExpiresByType image/jpeg      "access plus 1 year"
-  ExpiresByType image/png       "access plus 1 year"
-  ExpiresByType image/svg+xml       "access plus 1 year"
-  ExpiresByType image/tiff      "access plus 1 year"
-  ExpiresByType image/vnd.microsoft.icon    "access plus 1 year"
-    ExpiresByType image/x-icon      "access plus 1 year"
-  ExpiresByType text/css        "access plus 1 year"
-  ExpiresByType video/x-flv       "access plus 1 year"
+  ExpiresByType image/bmp                     "access plus 1 year"
+  ExpiresByType image/gif                     "access plus 1 year"
+  ExpiresByType image/jpeg                    "access plus 1 year"
+  ExpiresByType image/png                     "access plus 1 year"
+  ExpiresByType image/svg+xml                 "access plus 1 year"
+  ExpiresByType image/tiff                    "access plus 1 year"
+  ExpiresByType image/vnd.microsoft.icon      "access plus 1 year"
+  ExpiresByType image/x-icon                  "access plus 1 year"
+  ExpiresByType text/css                      "access plus 1 year"
+  ExpiresByType video/x-flv                   "access plus 1 year"
   ExpiresByType application/vnd.bw-fontobject "access plus 1 year"
-  ExpiresByType application/x-font-ttf    "access plus 1 year"
-  ExpiresByType application/font-woff   "access plus 1 year"
-  ExpiresByType font/opentype     "access plus 1 year"
-  ExpiresByType image/webp      "access plus 1 year"
+  ExpiresByType application/x-font-ttf        "access plus 1 year"
+  ExpiresByType application/font-woff         "access plus 1 year"
+  ExpiresByType font/opentype                 "access plus 1 year"
+  ExpiresByType image/webp                    "access plus 1 year"
 
   # The following MIME types are in the process of registration
-  ExpiresByType application/xslt+xml    "access plus 1 year"
-  ExpiresByType image/svg+xml     "access plus 1 year"
+  ExpiresByType application/xslt+xml        "access plus 1 year"
+  ExpiresByType image/svg+xml               "access plus 1 year"
 
   # The following MIME types are NOT registered
-  ExpiresByType application/mathml+xml    "access plus 1 year"
-  ExpiresByType application/rss+xml   "access plus 1 year"
+  ExpiresByType application/mathml+xml      "access plus 1 year"
+  ExpiresByType application/rss+xml         "access plus 1 year"
 
   # JavaScript has various MIME types
   ExpiresByType application/x-javascript    "access plus 1 year"
-  ExpiresByType application/javascript    "access plus 1 year"
-  ExpiresByType text/ecmascript       "access plus 1 year"
-  ExpiresByType text/javascript       "access plus 1 year"
+  ExpiresByType application/javascript      "access plus 1 year"
+  ExpiresByType text/ecmascript             "access plus 1 year"
+  ExpiresByType text/javascript             "access plus 1 year"
 </IfModule>
 
 # TODO: Set Last-Modified per Google's recommendation to complete browser caching
