@@ -4,8 +4,8 @@ subtitle: 'Entrevista épica com Marcel Duran, engenheiro front-end no Twitter'
 episodeID: 'ep5'
 mosaico: http://i.imgur.com/HGILa8T.png
 audio: http://zofe.com.br/episodios/zofe-05-perca-peso-pergunte-me-como
-duration: ''
-durationMeta: T1H27M01S
+duration: '1:11:53'
+durationMeta: T1H11M53S
 tags: episodio, twitter, yahoo, yslow, front-end, performance, campus-party
 layout: post
 ---
@@ -55,7 +55,7 @@ Por pouquíssimas pessoas que acessam a versão OGG do podcast, resolvemos deixa
 
 \[01:05:50\] Eventos<br>
 
-* [Zeno Rocha e Bernar de Luna: Layouts Responsivos o seu conteúdo em múltiplos dispositivos](http://www.youtube.com/watch?v=ty7zj37gaBI)<br>
+* [Zeno Rocha e Bernard de Luna: Layouts Responsivos o seu conteúdo em múltiplos dispositivos](http://www.youtube.com/watch?v=ty7zj37gaBI)<br>
 * [Daniel Filho: Desenvolvendo Interfaces Total-Flex](http://www.youtube.com/watch?v=b9ZrOdTFkNk)<br>
 
 
