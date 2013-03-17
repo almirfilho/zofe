@@ -1,5 +1,6 @@
 .DS_Store
 _site
+generate
 episodios
 *.m4a
 *.mp3
