@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <id>http://zofe.com.br/</id>
+  <title>Zone of Front-Enders - Blog</title>
+  <icon>http://zofe.com.br/favicon.ico</icon>
+  <updated>2013-03-17T14:43:04-03:00</updated>
+  <link href="http://zofe.com.br/feed/posts.xml" rel="self" />
+  <link href="http://zofe.com.br/" />
+
+  
+  <entry>
+    <id>http://zofe.com.br/posts/zofe-6-Mosaico - Episódio 6 -  o-que-voce-fez-hoje/</id>
+    <title>ZOFE #6: O que você fez hoje?</title>
+    <updated>2013-03-17T00:00:00-03:00</updated>
+    <link href="http://zofe.com.br/posts/zofe-6-Mosaico+-+Episo%CC%81dio+6+-++o-que-voce-fez-hoje/" />
+    <author>
+      <name>Zone of Front-Enders</name>
+      <uri>http://zofe.com.br/</uri>
+    </author>
+    <content type="html">
+      &lt;p&gt;Como foi o dia do Daniel Filho? E o do Zeno Rocha? Mais importante ainda, queremos saber &lt;strong&gt;como foi o SEU dia!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Diga como foi seu dia profissional no comentário deste post, pode ser que, sei lá. De repente, você pode ganhar um botom do ZOFE, ou um adesivo. OU OS DOIS! (Vai que, né?)&lt;/p&gt;
+&lt;img alt='Mosaico - Episódio 6 -  O que você fez hoje?' class='mosaico' height='600' src='http://i.imgur.com/2eU6yo6.png' title='Mosaico - Episódio 6 -  O que você fez hoje?' width='600' /&gt;
+&lt;p&gt;Seguindo no formato conhecido internamente como &amp;#8220;Forever Alones&amp;#8221; (mentira, acabei de inventar), Daniel e Zeno contam um pouco mais do seu dia-a-dia no trabalho, ferramentas que usam, além de pedir o que vem sendo pedindo desde 2010: um fim a negatividade. Corre e da o play!&lt;/p&gt;
+
+&lt;h3 id='batepapo'&gt;Bate-papo&lt;/h3&gt;
+
+&lt;p&gt;[0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt; [0] &lt;a href='' /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id='siga_o_zofe'&gt;Siga o ZOFE&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href='http://fb.com/zofepod/' title='ZOFE no Facebook: fb.com/zofepod'&gt;Zone Of Front-Enders no Facebook: fb.com/zofepod&lt;/a&gt;&lt;br /&gt; &lt;a href='http://twitter.com/zofepod/' title='ZOFE no Twitter'&gt;Zone Of Front-Enders no Twitter: twitter.com/zofepod&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <id>http://zofe.com.br/posts/zofe-5-perca-peso-pergunte-me-como/</id>
+    <title>ZOFE #5: Perca peso. Pergunte-me como.</title>
+    <updated>2013-02-09T00:00:00-02:00</updated>
+    <link href="http://zofe.com.br/posts/zofe-5-perca-peso-pergunte-me-como/" />
+    <author>
+      <name>Zone of Front-Enders</name>
+      <uri>http://zofe.com.br/</uri>
+    </author>
+    <content type="html">
+      &lt;p&gt;Vou te contar, se perder KG fosse tão fácil quando perder MB, eu era modelo e não programador! Mas já que, mesmo com uma força do Crockford pra perder KG ainda é difícil, vamos ficar com todas as dicas do Marcel Duran pra perder MB no front-end e ganhar velocidade e performance.&lt;/p&gt;
+&lt;img alt='' class='mosaico' height='600' src='http://i.imgur.com/HGILa8T.png' title='Mosaico - Episódio 5 - Perca peso. Pergunte-me como.' width='600' /&gt;
+&lt;p&gt;No episódio cinco, o entrevistado da vez é ninguém menos que &lt;a href='http://twitter.com/marcelduran'&gt;Marcel Duran&lt;/a&gt;. Ele conta como é manter um dos maiores projetos de análise de performance do front-end, o &lt;a href='http://yslow.org'&gt;YSlow&lt;/a&gt;, fala da sua trajetória até chegar ao Twitter e passa muitas dicas e links a respeito do assunto que domina: performance.&lt;/p&gt;
+
+&lt;p&gt;Vem com a gente! :)&lt;/p&gt;
+
+&lt;h2 id='udio_em_ogg'&gt;Áudio em OGG&lt;/h2&gt;
+
+&lt;p&gt;Por pouquíssimas pessoas que acessam a versão OGG do podcast, resolvemos deixar de gerar este formato, o que agiliza bastante e economiza um espaço imenso nos servidores, já que a versão M4A (que é multimídia) tem aproximadamente 50 megas, o mesmo áudio em versão OGG tem aproximadamente 340 megas.&lt;/p&gt;
+
+&lt;h2 id='notcias'&gt;Notícias&lt;/h2&gt;
+
+&lt;p&gt;[0:1:46] &lt;a href='http://alloyui.com/'&gt;Alloy UI&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id='batepapo'&gt;Bate-papo&lt;/h3&gt;
+
+&lt;p&gt;[00:02:23] Entrevista com &lt;a href='http://twitter.com/marcelduran'&gt;Marcel Duran&lt;/a&gt;&lt;br /&gt; [00:07:30] &lt;a href='https://twitter.com/stoyanstefanov'&gt;Stoyan Stefanov&lt;/a&gt;&lt;br /&gt; [00:12:23] &lt;a href='http://www.amazon.com.br/High-Performance-Web-Sites-ebook/dp/B0028N4WHY/ref=sr_1_1?s=digital-text&amp;amp;ie=UTF8&amp;amp;qid=1360379705&amp;amp;sr=1-1'&gt;High-Performance Web Sites, Steve Souders&lt;/a&gt;&lt;br /&gt; [00:16:36] &lt;a href='http://www.amazon.com.br/Even-Faster-Web-Sites-ebook/dp/B0043D2EHW/ref=sr_1_2?s=digital-text&amp;amp;ie=UTF8&amp;amp;qid=1360379941&amp;amp;sr=1-2'&gt;Even Faster Web Sites, Steve Souders&lt;/a&gt;&lt;br /&gt; [00:17:01] &lt;a href='http://www.amazon.com.br/Web-Performance-Daybook-Volume-ebook/dp/B008CQA8BA/ref=sr_1_2?s=digital-text&amp;amp;ie=UTF8&amp;amp;qid=1360380001&amp;amp;sr=1-2'&gt;Web Performance Daybook, Stoyan Stefanov&lt;/a&gt;&lt;br /&gt; [00:17:25] &lt;a href='http://calendar.perfplanet.com/'&gt;Performance Calendar&lt;/a&gt;&lt;br /&gt; [00:19:52] &lt;a href='http://developer.yahoo.com/performance/'&gt;Exceptional Performance Team&lt;/a&gt;&lt;br /&gt; [00:30:09] &lt;a href='https://github.com/marcelduran/webpagetest-api'&gt;Web Page Test API&lt;/a&gt;&lt;br /&gt; [00:33:40] &lt;a href='https://developers.google.com/speed/'&gt;Make The Web Faster&lt;/a&gt;&lt;br /&gt; [00:34:06] &lt;a href='http://stevesouders.com/'&gt;Steve Souders&lt;/a&gt;&lt;br /&gt; [00:34:56] &lt;a href='http://bluesmoon.info/'&gt;Philip Tellis&lt;/a&gt;&lt;br /&gt; [00:36:03] &lt;a href='http://www.sultansofspeed.com/'&gt;Sultans Of Speed&lt;/a&gt;&lt;br /&gt; [00:36:37] &lt;a href='http://calendar.perfplanet.com/'&gt;Performance Calendar&lt;/a&gt;&lt;br /&gt; [00:36:46] &lt;a href='http://www.perfplanet.com/'&gt;Perf Planet&lt;/a&gt;&lt;br /&gt; [00:37:18] &lt;a href='http://yslow.org/'&gt;YSlow&lt;/a&gt;&lt;br /&gt; [00:47:56] &lt;a href='https://developers.google.com/speed/pagespeed/'&gt;Page Speed&lt;/a&gt;&lt;br /&gt; [00:54:25] &lt;a href='http://velocityconf.com/'&gt;Velocity Conf&lt;/a&gt;&lt;br /&gt; [00:58:06] &lt;a href='http://www.feecbr.com.br/pt/'&gt;FEEC Conf&lt;/a&gt;&lt;br /&gt; [00:59:17] &lt;a href='http://www.crockford.com/'&gt;Douglas Crockford&lt;/a&gt;&lt;br /&gt; [00:59:53] &lt;a href='http://www.crockford.com/pwl/'&gt;Permanent Weight Loss&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id='eventos'&gt;Eventos&lt;/h3&gt;
+
+&lt;p&gt;[01:05:50] Eventos&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://www.youtube.com/watch?v=ty7zj37gaBI'&gt;Zeno Rocha e Bernard de Luna: Layouts Responsivos o seu conteúdo em múltiplos dispositivos&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.youtube.com/watch?v=b9ZrOdTFkNk'&gt;Daniel Filho: Desenvolvendo Interfaces Total-Flex&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id='siga_o_zofe'&gt;Siga o ZOFE&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href='http://fb.com/zofepod/' title='ZOFE no Facebook: fb.com/zofepod'&gt;Zone Of Front-Enders no Facebook: fb.com/zofepod&lt;/a&gt;&lt;br /&gt; &lt;a href='http://twitter.com/zofepod/' title='ZOFE no Twitter'&gt;Zone Of Front-Enders no Twitter: twitter.com/zofepod&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <id>http://zofe.com.br/posts/zofe-4-todos-os-segredos-do-google/</id>
+    <title>ZOFE #4: Todos Os Segredos do Google!!!1!onze!!</title>
+    <updated>2013-01-24T00:00:00-02:00</updated>
+    <link href="http://zofe.com.br/posts/zofe-4-todos-os-segredos-do-google/" />
+    <author>
+      <name>Zone of Front-Enders</name>
+      <uri>http://zofe.com.br/</uri>
+    </author>
+    <content type="html">
+      &lt;p&gt;VOLTAMOS, e dessa vez pra ficar! Isso aí, pessoal. Depois de uma pausa sabática, o seu podcast com conteúdo em português sobre desenvolvimento web com foco no front-end apresentado pelo Daniel e Zeno voltou (é, não sobraram muitas opções também, né?). Dessa vez, entrevistamos &lt;strong&gt;O_CARA&lt;/strong&gt; do Google Chrome no Brasil: Renato Mangini.&lt;/p&gt;
+&lt;img alt='' class='mosaico' height='600' src='http://i.imgur.com/YOd4ID5.png' title='Mosaico - Episódio 5 - Todos Os Segredos do Google!!!1!onze!!' width='600' /&gt;
+&lt;p&gt;Entrevistamos o &lt;a href='https://plus.google.com/102180419759627664875/posts'&gt;Renato Mangini&lt;/a&gt; no &lt;a href='http://devfest.com.br'&gt;DevFest&lt;/a&gt; mas, por problemas técnicos, não conseguimos publicar nem aproveitar o que gravamos. Então, convidamos ele pra fazer no formato tradicional, e deu certo. E aproveitamos o convidado para revelarmos TODOS OS SEGREDOS do Google (brincadeira, só uns dois ou três que nem são tão secretos assim).&lt;/p&gt;
+
+&lt;p&gt;Esperamos que você curta o episódio!&lt;/p&gt;
+
+&lt;h2 id='notcias'&gt;Notícias&lt;/h2&gt;
+
+&lt;p&gt;[0:1:52] &lt;a href='http://jquery.com/'&gt;jQuery 1.9&lt;/a&gt;&lt;br /&gt; [0:3:40] &lt;a href='http://famo.us/'&gt;Famo.us&lt;/a&gt;&lt;br /&gt; [0:7:19] &lt;a href='http://coding.smashingmagazine.com/2013/01/03/starting-open-source-project/'&gt;Starting An Open-Source Project&lt;/a&gt;&lt;br /&gt; [0:9:10] &lt;a href='http://updates.html5rocks.com/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API'&gt;Voice Driven Web Apps&lt;/a&gt;&lt;br /&gt; [0:10:30] &lt;a href='http://net.tutsplus.com/tutorials/javascript-ajax/a-requirejs-backbone-and-bower-starter-template/'&gt;RequireJS + BackboneJS + Bower&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id='batepapo'&gt;Bate-papo&lt;/h3&gt;
+
+&lt;p&gt;[0:14:39] Entrevista com &lt;a href='https://plus.google.com/102180419759627664875/posts'&gt;Renato Mangini&lt;/a&gt;&lt;br /&gt; [0:15:28] &lt;a href='http://twitter.com/luisleao'&gt;Luis Leão&lt;/a&gt;&lt;br /&gt; [0:17:35] &lt;a href='http://devfest.com.br/'&gt;DevFest 2012&lt;/a&gt;&lt;br /&gt; [0:19:56] &lt;a href='http://google.com/chromebook/'&gt;Google Chromebook&lt;/a&gt;&lt;br /&gt; [0:25:24] &lt;a href='http://google.com/jobs/'&gt;Trabalhe no Google&lt;/a&gt;&lt;br /&gt; [0:37:20] &lt;a href='http://github.com/'&gt;Github&lt;/a&gt;&lt;br /&gt; [0:39:13] &lt;a href='https://plus.google.com/113127438179392830442/posts/G1GxKUD2Tc4'&gt;Paul Irish&amp;#8217;s Chrome DevRel Circle&lt;/a&gt;&lt;br /&gt; [0:40:06] &lt;a href='https://plus.google.com/113127438179392830442/posts/T2VqiobsvLF'&gt;Paul Irish&amp;#8217;s JavaScript Developers + Experts Circle&lt;/a&gt;&lt;br /&gt; [0:41:16] &lt;a href='http://www.udacity.com/overview/Course/cs255/'&gt;HTML5 Game Development (CS255)&lt;/a&gt;&lt;br /&gt; [0:52:47] &lt;a href='http://www.google.com/chromeframe'&gt;ChromeFrame&lt;/a&gt;&lt;br /&gt; [1:00:25] &lt;a href='http://google.com/chrome/'&gt;Google Chrome: explicando as versões&lt;/a&gt;&lt;br /&gt; [1:11:46] &lt;a href='http://beerblogging.org/'&gt;BeerBlogging&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id='eventos'&gt;Eventos&lt;/h3&gt;
+
+&lt;p&gt;[1:19:42] Eventos&lt;br /&gt; [1:20:23] &lt;a href='http://conexaokinghost.com.br/'&gt;Conexão King Host&lt;/a&gt;&lt;br /&gt; [1:20:49] &lt;a href='http://devfest.com.br/'&gt;DevFest 2012&lt;/a&gt;&lt;br /&gt; [1:21:13] OOOPS!&lt;br /&gt; [1:22:14] &lt;a href='http://www.campus-party.com.br/2013/'&gt;Campus Party 2013&lt;/a&gt;&lt;br /&gt; [1:23:40] &lt;a href='http://www.beagajs.com.br/'&gt;BeagaJS&lt;/a&gt;&lt;br /&gt; [1:25:06] &lt;a href='http://firefoxosappdays-saopaulo.eventbrite.com/'&gt;Firefox App Day&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id='siga_o_zofe'&gt;Siga o ZOFE&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href='http://fb.com/zofepod/' title='ZOFE no Facebook: fb.com/zofepod'&gt;Zone Of Front-Enders no Facebook: fb.com/zofepod&lt;/a&gt;&lt;br /&gt; &lt;a href='http://twitter.com/zofepod/' title='ZOFE no Twitter'&gt;Zone Of Front-Enders no Twitter: twitter.com/zofepod&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <id>http://zofe.com.br/posts/zofe-3-carreira-em-front-end/</id>
+    <title>ZOFE #3: Carreira em Front-End</title>
+    <updated>2012-11-20T00:00:00-02:00</updated>
+    <link href="http://zofe.com.br/posts/zofe-3-carreira-em-front-end/" />
+    <author>
+      <name>Zone of Front-Enders</name>
+      <uri>http://zofe.com.br/</uri>
+    </author>
+    <content type="html">
+      &lt;p&gt;Terceiro episódio com nova plataforma no site e… FEED! Neste episódio temos um formato diferente: um bate-papo entre Daniel Filho e Zeno Rocha, com um tema escolhido pelo público: Carreira em Front-End.&lt;/p&gt;
+&lt;img alt='' class='mosaico' height='600' src='http://i.imgur.com/K5Rrl.png' title='Mosaico - Episódio 3 - Carreira em Front-End' width='600' /&gt;
+&lt;p&gt;Neste episódio fizemos um formato diferente: um bate-papo entre Daniel Filho e Zeno Rocha, com um tema escolhido pelo público: Carreira em Front-End.&lt;/p&gt;
+
+&lt;p&gt;Agora você pode deixar seus comentários no post do episódio (no caso deste, na seguinte url: &lt;a href='http://zofe.com.br/posts/zofe-3-carreira-em-front-end/'&gt;http://zofe.com.br/posts/zofe-3-carreira-em-front-end/&lt;/a&gt;), além de uma nova página para contatos, um novo sistema de publicação e o tão aguardado &lt;a href='http://zofe.com.br/feed/podcast.xml'&gt;feed rss&lt;/a&gt; para iTunes e outros aplicativos.&lt;/p&gt;
+
+&lt;h2 id='notcias'&gt;Notícias&lt;/h2&gt;
+
+&lt;p&gt;[1:42] Novo sistema por trás do &lt;a href='http://zofe.com.br'&gt;zofe.com.br&lt;/a&gt;&lt;br /&gt; [4:14] &lt;a href='http://www.w3.org/TR/2012/WD-push-api-20121018/'&gt;Push API Working Draft&lt;/a&gt;&lt;br /&gt; [5:05] &lt;a href='http://www.w3.org/TR/clipboard-apis/'&gt;Clipboard APIs&lt;/a&gt;&lt;br /&gt; [6:22] &lt;a href='http://lists.w3.org/Archives/Public/www-archive/2012Oct/att-0120/Overview.html'&gt;CSS Module Collision Level 3 - Unnoficial Draft&lt;/a&gt;&lt;br /&gt; [6:52] &lt;a href='https://plus.google.com/113817074606039822053/posts/8sfcXcTAbwD'&gt;WebRTC na versão Stable do Chrome&lt;/a&gt;&lt;br /&gt; [7:40] &lt;a href='http://contest.xrtml.org/'&gt;xRTML Contest&lt;/a&gt;&lt;br /&gt; [10:24] &lt;a href='http://braziljs.org/eventos'&gt;BrazilJS: Eventos&lt;/a&gt; e &lt;a href='http://braziljs.org/projetos'&gt;BrazilJS: Projetos&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id='batepapo'&gt;Bate-papo&lt;/h3&gt;
+
+&lt;p&gt;[12:38] Carreira Front-End&lt;br /&gt; [19:24] &lt;a href='http://danielfilho.info/blog/pesquisando-sobre-front-end/'&gt;Pesquisando sobre Front-end&lt;/a&gt;&lt;br /&gt; [21:33] &lt;a href='https://github.com/leobetosouza/bons-front-enders'&gt;Bons Front-enders&lt;/a&gt;&lt;br /&gt; [21:53] &lt;a href='https://github.com/darcyclarke/Front-end-Developer-Interview-Questions'&gt;Front-end Developer Interview Questions&lt;/a&gt;&lt;br /&gt; [35:55] &lt;a href='http://javascriptbrasil.com/artigos/estou-iniciando-em-javascript-por-onde-comeco'&gt;Estou iniciando em javascript, por onde começo?&lt;/a&gt;&lt;br /&gt; [36:10] &lt;a href='http://www.luiztiago.com/post/34760239764/quero-aprender-ou-conhecer-melhor-javascript-por-onde'&gt;Quero aprender ou conhecer melhor JavaScript. Por onde começar?&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id='eventos'&gt;Eventos&lt;/h3&gt;
+
+&lt;p&gt;[59:41] &lt;a href='http://www.frontinsampa.com.br/'&gt;Front in Sampa&lt;/a&gt;&lt;br /&gt; [1:00:00] &lt;a href='http://www.cafw.ufsm.br/eati/2012/'&gt;EATI&lt;/a&gt;&lt;br /&gt; [1:01:57] &lt;a href='http://www.frontinterior.com.br'&gt;FrontInterior&lt;/a&gt;&lt;br /&gt; [1:04:28] &lt;a href='http://devfest.com.br'&gt;DevFest&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id='siga_o_zofe'&gt;Siga o ZOFE&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href='http://fb.com/zofepod/' title='ZOFE no Facebook: fb.com/zofepod'&gt;Zone Of Front-Enders no Facebook: fb.com/zofepod&lt;/a&gt;&lt;br /&gt; &lt;a href='http://twitter.com/zofepod/' title='ZOFE no Twitter'&gt;Zone Of Front-Enders no Twitter: twitter.com/zofepod&lt;/a&gt;&lt;br /&gt; [55:11] Zone Of Front-Enders no Google+: &amp;#160;URL só ouvindo.&lt;/p&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <id>http://zofe.com.br/posts/zofe-2-beijo-no-coracao/</id>
+    <title>ZOFE #2: Beijo no Coração</title>
+    <updated>2012-11-02T00:00:00-02:00</updated>
+    <link href="http://zofe.com.br/posts/zofe-2-beijo-no-coracao/" />
+    <author>
+      <name>Zone of Front-Enders</name>
+      <uri>http://zofe.com.br/</uri>
+    </author>
+    <content type="html">
+      &lt;p&gt;Chegamos no segundo episódio do Zone Of Front-Enders. A entrevista da vez é dupla: Reinaldo Ferraz e Yasodara Córdova. Ambos trabalham como “Developer Relations” no escritório brasileiro do W3C.&lt;/p&gt;
+&lt;img alt='' class='mosaico' height='600' src='http://i.imgur.com/ZSyFi.png' title='Mosaico - Episódio 2 - Beijo no Coração' width='600' /&gt;
+&lt;p&gt;Recomendamos que baixem a versão AAC e ouçam em seu iPod, iPhone ou iTunes. O conteúdo é mais rico, com links e imagens.&lt;/p&gt;
+
+&lt;p&gt;Toda a entrevista foi feita durante a &lt;a href='http://conferenciaweb.w3c.br'&gt;Conferência Web.BR&lt;/a&gt;, em meio a todos os acontecimentos e apresentações, conseguimos alguns minutos dos anfitriões do evento para a entrevista.&lt;/p&gt;
+
+&lt;h2 id='momento_ie6'&gt;Momento IE6&lt;/h2&gt;
+
+&lt;p&gt;[2:40] Momento IE6 – Apresentação&lt;br /&gt; [2:52] Momento IE6 – Arduino (valeu William Oliveira!)&lt;br /&gt; [4:02] Momento IE6 – MDN (valeu Jaydson!)&lt;/p&gt;
+
+&lt;h2 id='notcias'&gt;Notícias:&lt;/h2&gt;
+
+&lt;p&gt;[4:42] &lt;a href='http://www.w3.org/2012/10/TPAC/' title='TPAC W3C'&gt;TPAC W3C&lt;/a&gt;&lt;br /&gt; [5:25] &lt;a href='http://disruptive-innovations.com/zoo/customers/CSSWG/Priorities.html' title='Prioridades do CSSWG'&gt;Prioridades do CSSWG&lt;/a&gt;&lt;br /&gt; [7:15] &lt;a href='http://www.yuiblog.com/blog/2012/10/16/state-of-yui-compressor/' title='YUI Compressor'&gt;YUI Compressor&lt;/a&gt;&lt;br /&gt; [9:12] &lt;a href='https://twitter.com/danielfilho/status/263318786327855105' title='Twitter: Canary suporta a type date e time em inputs'&gt;Chrome Canary suporta &amp;#60;input type=date /&amp;#62; e &amp;#60;input type=time /&amp;#62;&lt;/a&gt;&lt;br /&gt; [9:53] &lt;a href='https://github.com/component/component' title='Components'&gt;Components&lt;/a&gt;&lt;br /&gt; — &lt;a href='http://blog.millermedeiros.com/stop-writing-plugins-start-writing-components/' title='Post do Miller Medeiros'&gt;Post do Miller Medeiros&lt;/a&gt;&lt;br /&gt; — &lt;a href='http://conferenciaweb.w3c.br' title='Como foi a Conferência Web.BR'&gt;Como foi a Conferência Web.BR&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id='entrevista'&gt;Entrevista:&lt;/h2&gt;
+
+&lt;p&gt;[15:06] Entrevista com Yaso e Reinaldo, ambos do escritório brasileiro do W3C&lt;/p&gt;
+
+&lt;h2 id='eventos'&gt;Eventos:&lt;/h2&gt;
+
+&lt;p&gt;[48:17] &lt;a href='http://frontinmaceio.com.br/' title='Front In Maceió'&gt;Front In Maceió&lt;/a&gt;&lt;br /&gt; — &lt;a href='https://speakerdeck.com/loopinfinito/html5-sensitivo-seu-browser-no-plano-astral' title='Palestra do Loop Infinito – HTML5 Sensitivo'&gt;Palestra do Loop Infinito – HTML5 Sensitivo&lt;/a&gt;&lt;br /&gt; [50:07] &lt;a href='http://www.frontinsampa.com.br/' title='Front In Sampa'&gt;Front In Sampa – [&amp;#8220;BRAZILJSFINAL&amp;#8221;]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id='links'&gt;Links:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://w3c.br/' title='W3C.BR'&gt;W3C.BR&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.w3.org/Consortium/activities#Math_Working_Group' title='Grupos de Trabalho do W3'&gt;Grupos de Trabalho do W3&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://nic.br/' title='NIC.BR'&gt;NIC.BR&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://cgi.br/' title='CGI.BR'&gt;CGI.BR&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://registro.br/' title='Registro.BR'&gt;Registro.BR&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='irc://irc.w3.org/' title='Servidor IRC do W3C'&gt;Servidor IRC do W3C&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://lists.w3.org/Archives/Public/public-whatwg-archive/2012Jul/0119.html' title='Separação dos grupos what-wg e html-wg'&gt;Separação dos grupos what-wg e html-wg&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://whatwg.org' title='WHATWG'&gt;WHATWG&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.linkedin.com/in/jeanneholm' title='Jeanne Holm'&gt;Jeanne Holm&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://maujor.com.br/' title='Maujorsauro-Rex'&gt;Maujor&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://lea.verou.me/' title='Lea Verou'&gt;Lea Verou&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id='siga_o_zofe'&gt;Siga o ZOFE&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href='http://fb.com/zofepod/' title='ZOFE no Facebook: fb.com/zofepod'&gt;Zone Of Front-Enders no Facebook: fb.com/zofepod&lt;/a&gt;&lt;br /&gt; &lt;a href='http://twitter.com/zofepod/' title='ZOFE no Twitter'&gt;Zone Of Front-Enders no Twitter: twitter.com/zofepod&lt;/a&gt;&lt;br /&gt; [55:11] Zone Of Front-Enders no Google+: &amp;#160;URL só ouvindo.&lt;/p&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <id>http://zofe.com.br/posts/zofe-1-agora-e-pra-valer/</id>
+    <title>ZOFE #1: Agora é pra valer!</title>
+    <updated>2012-10-18T00:00:00-03:00</updated>
+    <link href="http://zofe.com.br/posts/zofe-1-agora-e-pra-valer/" />
+    <author>
+      <name>Zone of Front-Enders</name>
+      <uri>http://zofe.com.br/</uri>
+    </author>
+    <content type="html">
+      &lt;p&gt;No primeiro episódio oficial do Zone Of Front-Enders contamos com um convidado quase brasileiro: Mike Taylor.&lt;/p&gt;
+
+&lt;p&gt;Ele morou no Brasil por alguns anos, hoje trabalha como “Web Opener” na Opera Software e fala português melhor que a gente. Acho que corremos risco, Zeno! :D&lt;/p&gt;
+&lt;img alt='' class='mosaico' height='600' src='http://i.imgur.com/HwwDi.png' title='Mosaico do episódio 1' width='600' /&gt;
+&lt;p&gt;Recomendamos que baixem a versão AAC e ouçam em seu iPod, iPhone ou iTunes. O conteúdo é mais rico, com links e imagens.&lt;/p&gt;
+
+&lt;h2 id='notcias'&gt;Notícias&lt;/h2&gt;
+
+&lt;p&gt;[2:02] &lt;a href='http://www.youtube.com/watch?v=Voz0-5Ynpyo' title='The Future Of Web Gaming'&gt;The Future Of Web Gaming&lt;/a&gt;&lt;br /&gt; [3:35] &lt;a href='http://webplatform.org' title='Web Platform'&gt;WebPlatform.org&lt;/a&gt;&lt;br /&gt; [4:28] &lt;a href='http://nodecopter.com' title='NodeCopter JS'&gt;NodeCopter&lt;/a&gt;&lt;br /&gt; [7:47] &lt;a href='https://github.com/scripted-editor/scripted' title='VMWare&amp;apos;s Scripted'&gt;Scripted&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id='entrevista'&gt;Entrevista&lt;/h2&gt;
+
+&lt;p&gt;[11:16] Início da entrevista com &lt;a href='http://miketaylr.com'&gt;Mike Taylor&lt;/a&gt;&lt;br /&gt; { os links da conversa serão postados em breve }&lt;/p&gt;
+
+&lt;h2 id='eventos'&gt;Eventos&lt;/h2&gt;
+
+&lt;p&gt;[48:29] &lt;a href='http://conferenciaweb.w3c.br'&gt;W3C Web.BR&lt;/a&gt;&lt;br /&gt; [50:55] &lt;a href='http://yapcbrasil.org.br/2012'&gt;YAPC::2012&lt;/a&gt;&lt;br /&gt; [51:24] &lt;a href='http://blackberryjamsessions.com'&gt;BlackBerry Jam Sessions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id='errata'&gt;Errata&lt;/h2&gt;
+
+&lt;p&gt;[36:50] MDN não é uma wiki criada por um navegador e sim pela fundação Mozilla na qual tem como principal produto um navegador.&lt;/p&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <id>http://zofe.com.br/posts/zofe-0-apresentacao-do-zone-of-front-enders/</id>
+    <title>ZOFE #0: Apresentação do Zone Of Front-Enders</title>
+    <updated>2012-10-07T00:00:00-03:00</updated>
+    <link href="http://zofe.com.br/posts/zofe-0-apresentacao-do-zone-of-front-enders/" />
+    <author>
+      <name>Zone of Front-Enders</name>
+      <uri>http://zofe.com.br/</uri>
+    </author>
+    <content type="html">
+      &lt;p&gt;O episódio 0 é uma apresentação sobre a proposta do podcast. Um papo sobre a idéia, como surgiu, formato, periodicidade e muito mais.&lt;/p&gt;
+
+&lt;p&gt;Ainda temos a entrevista zero, com Felipe Moura, um dos fundadores da fundação BrazilJS e realizador do evento BrazilJS: a maior conferência de JavaScript do universo.&lt;/p&gt;
+
+&lt;p&gt;Recomendamos que baixem a versão AAC e ouçam em seu iPod, iPhone ou iTunes. O conteúdo é mais rico, com links e imagens.&lt;/p&gt;
+
+&lt;p&gt;[0:53] Apresentação dos apresentadores&lt;br /&gt; [3:33] A idéia e o formato do podcast&lt;br /&gt; [7:40] De onde surgiu o nome Zone Of The Front-Enders [&lt;a href='http://www.youtube.com/watch?v=aPVOxvABhdA' title='Zone Of The Enders'&gt;vídeo citado&lt;/a&gt;]&lt;br /&gt; [9:30] A proposta do ZOFE&lt;br /&gt; [14:56] Entrevista com Felipe Moura da fundação &lt;a href='http://braziljs.org/' title='BrazilJS Foundation'&gt;BrazilJS&lt;/a&gt; e &lt;a href='http://terra.com.br/' title='Portal Terra'&gt;Terra&lt;/a&gt;&lt;/p&gt;
+    </content>
+  </entry>
+  
+
+</feed>
