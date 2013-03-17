@@ -43,10 +43,15 @@ Seguindo no formato conhecido internamente como "Forever Alones" (mentira, acabe
 
 ## Sorteio: Twitter + ZOFE
 E foi feito o sorteio da promoção e os vencedores são:
-1. Bruna
-2. s
-3. s
 
+1. "Bolsa Família ou Bolsa Reclusão. Para esses eu digo não. O desejo é só um para quem é geek. Faturar a Bolsa Hack Week.#zofeTwitter" -- Bruna [@griebeler](http://twitter.com/griebeler)
+2. "recursão de front-end é participar da promoção sobre o twitter no twitter com o cara do twitter! #zofeTwitter #hackweek" -- [@ramoncaldeira](http://twitter.com/ramoncaldeira)
+3. "Amigos de bolso, agora serão amigos de bolsa! #zofeTwitter — Julio Ghisloti" -- [@julioghisloti](http://twitter.com/julioghisloti)
+
+Então não se esqueçam: 
+
+* **BRUNA**: envie um e-mail com seu nome completo e endereço para: crotylde \[arroba\] zofe \[.com .br\]
+* **JULIO e RAMON**: envie um e-mail com seu nome completo e endereço para: creuza \[arroba\] zofe \[.com .br\]
 
 ## Siga o ZOFE
 
