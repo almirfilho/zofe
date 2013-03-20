@@ -38,8 +38,8 @@ Seguindo no formato conhecido internamente como "Forever Alones" (mentira, acabe
 \[00:16:57\] [Capistrano](http://capistranorb.com/)<br>
 \[00:29:41\] [Jekyll](http://jekyllrb.com/)<br>
 \[00:30:46\] [Octopress](http://octopress.org/)<br>
-\[00:36:40\] [Why are front end developers so high in demand at startups if front end development is relatively easier than other fields of engineering?](https://www.quora.com/Startups/Why-are-front-end-developers-so-high-in-demand-at-startups-if-front-end-development-is-relatively-easier-than-other-fields-of-engineering)
-\[00:42:55\] [Discrepância profissional](http://i.imgur.com/aX8LXyu.png)
+\[00:36:40\] [Why are front end developers so high in demand at startups if front end development is relatively easier than other fields of engineering?](https://www.quora.com/Startups/Why-are-front-end-developers-so-high-in-demand-at-startups-if-front-end-development-is-relatively-easier-than-other-fields-of-engineering)<br>
+\[00:42:55\] [Discrepância profissional](http://i.imgur.com/aX8LXyu.png)<br>
 \[00:44:59\] [Chris Williams: An End to Negativity](http://jsconf.eu/2011/an_end_to_negativity.html)<br>
 \[00:53:39\] Sorteio: Bolsa do Twitter<br>
 
