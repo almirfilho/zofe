@@ -1,11 +1,11 @@
 ---
 title: 'ZOFE #7: Necessity Is The Mother Of Invention'
-subtitle: 'Como foi o dia de Daniel Filho, Zeno Rocha e o seu. É sério.'
-episodeID: 'ep6'
-mosaico: http://i.imgur.com/2eU6yo6.png
+subtitle: 'Where is the book? The book is on the table. I LOVE BARBECUE!'
+episodeID: 'ep7'
+mosaico: http://i.imgur.com/chJ9Ze2.png
 audio: http://zofe.com.br/episodios/zofe-07-necessity-is-the-mother-of-invention
-duration: '1:11:53'
-durationMeta: T1H11M53S
+duration: '1:09:49'
+durationMeta: T1H09M49S
 tags: episodio, front-end, jonathan neal, english
 layout: post
 ---
@@ -22,12 +22,12 @@ Estamos numa correria, este foi o episódio que mais levou tempo pra se gravar (
 
 ### Bate-papo
 
-[2:25](#t=2m25s) Entrevista com [Jonathan Neal](http://twitter.com/jon_neal)<br>
+[5:15](#t=5m15s) Entrevista com [Jonathan Neal](http://twitter.com/jon_neal)<br>
 [10:54](#t=10m54s) [viewsource.in](http://viewsource.in)<br>
 [17:34](#t=17m34s) [normalize.css](http://necolas.github.io/normalize.css/)<br>
 [27:02](#t=27m02s) [HTML5 Boilerplate](http://h5bp.com/)<br>
 [30:16](#t=30m16s) [Dive Into HTML5](http://diveintohtml5.info/)<br>
-[39:53](#t=39m53s) [pollyfill.io](http://pollyfill.io) / [GitHub](https://github.com/jonathantneal/polyfill) <br>
+[39:53](#t=39m53s) [polyfill.io](http://polyfill.io/) / [GitHub](https://github.com/jonathantneal/polyfill) <br>
 [44:21](#t=44m21s) IRC - [Freenode Server](https://www.freenode.net/)<br>
 [48:18](#t=48m18s) A Message for brazilian developers<br>
 
