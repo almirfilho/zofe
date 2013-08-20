@@ -30,10 +30,10 @@ Comentem dizendo o que acharam :D
 
 ### Novidades
 [0:02:51](#t=2m51s) [Getting Traction For Your Open Source Project](http://mdswanson.com/blog/2013/07/19/getting-traction-for-your-open-source-project.htm)<br>
-[0:0:0](#t=4m27s) [Bootstrap 3](http://getbootstrap.com/)<br>
-[0:0:0](#t=5m25s) [Bootstrap: 1% da web](http://blog.meanpath.com/twitter-bootstrap-now-powering-1-percent-of-the-web/)<br>
-[0:0:0](#t=10m10s) [Stylie](http://jeremyckahn.github.io/stylie/)<br>
-[0:0:0](#t=12m36s) [Vídeos da JSConf US](http://www.youtube.com/watch?v=f_9nDBtSInI&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)<br>
+[0:04:27](#t=4m27s) [Bootstrap 3](http://getbootstrap.com/)<br>
+[0:05:25](#t=5m25s) [Bootstrap: 1% da web](http://blog.meanpath.com/twitter-bootstrap-now-powering-1-percent-of-the-web/)<br>
+[0:10:10](#t=10m10s) [Stylie](http://jeremyckahn.github.io/stylie/)<br>
+[0:12:36](#t=12m36s) [Vídeos da JSConf US](http://www.youtube.com/watch?v=f_9nDBtSInI&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)<br>
 
 
 ### Entrevista
@@ -41,7 +41,7 @@ Comentem dizendo o que acharam :D
 
 
 ### Eventos
-[0:0:0](#t=1h18m26s) [BrazilJS](http://braziljs.com.br)<br>
+[1:18:26](#t=1h18m26s) [BrazilJS](http://braziljs.com.br)<br>
 
 
 ## Siga o ZOFE
