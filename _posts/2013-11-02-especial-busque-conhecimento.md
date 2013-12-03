@@ -25,8 +25,6 @@ Estamos todos vivos e todos bem e FINALMENTE gravamos nosso décimo episódio. T
 
 <img title="Mosaico - Episódio 10 - Especial - Busque Conhecimento" src="http://i.imgur.com/gjPDbTN.png" class="mosaico" alt="Mosaico - Episódio 10  - Especial - Busque Conhecimento" width="600" height="600">
 
-texto
-
 
 ### Bate-Papo
 
@@ -54,6 +52,9 @@ texto
 [1:11:55](#t=1h11m55s) [Bilu - Busque Conhecimento](http://www.youtube.com/watch?v=GggUi3KQpLc)<br>
 
 
+## Errata
+
+[01:01:50](#t=1h01m50s) O evento mencionado pelo Caio não foi o Front in Floripa, e sim o OlhóSEO.
 
 
 ## Siga o ZOFE
